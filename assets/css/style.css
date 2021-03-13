@@ -5,7 +5,6 @@
 
 
 
-
 /*----logo----*/
 
 
@@ -14,13 +13,13 @@
 
 /*----Navbar----*/
 
-
+navbar {
+    background-color: blue;
+}
 
 /*----Navbar Links----*/
 
-nav li {
-    color: black;
-}
+
 
 
 
