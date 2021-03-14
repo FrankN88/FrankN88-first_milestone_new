@@ -47,5 +47,24 @@ navbar {
 
 /*----Footer----*/
 
+.footer-style {
+position: absolute;
+height: 200px;
+min-width:100%;
+max-width:100%;
+top: 940px;
+}
 
 
+#wrapper {
+   min-height:100%;
+   position:relative;
+}
+
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:100px;   /* Height of the footer */
+   background:#6cf;
+}
