@@ -1,5 +1,19 @@
 
 
+@import url('https://fonts.googleapis.com/css?family=Oswald+Nunito&display=swap');
+
+
+
+
+/*----Jumbotron----*/
+
+.bg-color {
+    background-color: #332335;
+}
+
+
+
+
 
 /*----Header----*/
 
@@ -13,13 +27,18 @@
 
 /*----Navbar----*/
 
-navbar {
-    background-color: blue;
-}
+
+
 
 /*----Navbar Links----*/
 
-
+.nav-item {
+    padding-right: 30px;
+    font-size: large;
+    font-weight: 500;
+    margin-right: 50px;
+    font-family: "Oswald";
+}
 
 
 
@@ -56,15 +75,19 @@ top: 940px;
 }
 
 
-#wrapper {
-   min-height:100%;
-   position:relative;
+.list-inline-item i {
+    font-size: 50px;
+    margin: 0 auto;
+    color:#fff;
+    max-width: height 80px;
+    padding-top: 40px;
 }
 
-.footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:100px;   /* Height of the footer */
-   background:#6cf;
+.list-inline li {
+    padding-left: 25px;
+    float: right;
+}
+
+p {
+    color: blanchedalmond;
 }
