@@ -3,12 +3,6 @@
 /* @import url('https://fonts.googleapis.com/css?family=Oswald+Nunito&display=swap'); */
 
 
-@media screen and (min-width: 0px) and (max-width: 400px) {
-  #my-content{ display: block; }  /* show it on smaller screen */
-}
-@media screen and (min-width: 401px) and (max-width: 1024px) {
-  #my-content{ display: none; }   /* hide it on larger screens */
-}
 
 
 .bg-color {
@@ -18,7 +12,8 @@
 /*----Top Banner----*/
 
 #top-banner {
-    min-height: 25px;
+    min-height: 30px;
+    position: absolute;
 
 }
 
@@ -27,6 +22,11 @@
 
 
 /*----Header----*/
+
+
+.header-style {
+    padding-top: 50px;
+}
 
 
 
@@ -51,12 +51,26 @@
     font-family: "Oswald";
 }
 
+.nav-item:hover {
+    color: black;
+    text-decoration: none;
+}
+
 
 /*----Catchy line----*/
 
 
-.catchy-line {
-    font-size: 35px;
+.nav-link-top {
+    font-size: x-large;
+    color: black;
+    text-decoration: none;
+    font-family: "Oswald";
+    font-weight: 500;
+}
+
+.nav-link-top:hover {
+    color: #663399;
+    text-decoration: none;
 }
 
 
@@ -110,7 +124,9 @@ top: 940px;
 
 
 .footer-text {
-    font-size: 15px;
+    font-size: 20px;
+    font-family: "Oswald";
+    font-weight: 400;
     margin: 0 auto;
     color: #ffffff;
     max-width: height 80px;
@@ -123,9 +139,17 @@ top: 940px;
 
 
 .top-nav-button a {
-    margin-top: 2rem;
-    font-size: 10px;
-    font-weight: 300;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Oswald";
     color: white;
     border: 2px solid #ffffff;
+    position: right;
+}
+
+.top-nav-button a:hover{
+    color: #ffffff;
+    text-decoration: none;
 }
