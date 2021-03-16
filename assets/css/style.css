@@ -1,14 +1,25 @@
 
 
-@import url('https://fonts.googleapis.com/css?family=Oswald+Nunito&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Oswald+Nunito&display=swap'); */
 
 
+@media screen and (min-width: 0px) and (max-width: 400px) {
+  #my-content{ display: block; }  /* show it on smaller screen */
+}
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+  #my-content{ display: none; }   /* hide it on larger screens */
+}
 
-
-/*----Jumbotron----*/
 
 .bg-color {
     background-color: #332335;
+}
+
+/*----Top Banner----*/
+
+#top-banner {
+    min-height: 25px;
+
 }
 
 
@@ -41,6 +52,12 @@
 }
 
 
+/*----Catchy line----*/
+
+
+.catchy-line {
+    font-size: 35px;
+}
 
 
 /*----Section----*/
@@ -68,7 +85,6 @@
 
 .footer-style {
 position: absolute;
-height: 200px;
 min-width:100%;
 max-width:100%;
 top: 940px;
@@ -78,9 +94,10 @@ top: 940px;
 .list-inline-item i {
     font-size: 50px;
     margin: 0 auto;
-    color:#fff;
+    color: white;
     max-width: height 80px;
-    padding-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .list-inline li {
@@ -88,6 +105,27 @@ top: 940px;
     float: right;
 }
 
-p {
-    color: blanchedalmond;
+
+/*----Footer text----*/
+
+
+.footer-text {
+    font-size: 15px;
+    margin: 0 auto;
+    color: #ffffff;
+    max-width: height 80px;
+    padding-top: 20px;
+}
+
+
+
+/*----Footer btn----*/
+
+
+.top-nav-button a {
+    margin-top: 2rem;
+    font-size: 10px;
+    font-weight: 300;
+    color: white;
+    border: 2px solid #ffffff;
 }
