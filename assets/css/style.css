@@ -185,6 +185,7 @@ flex-direction: column;
 
 .img-thumbnail {
     background-color: #332335;
+    margin-bottom: 100px;
 }
 
 .about-us-intro {
@@ -203,7 +204,32 @@ flex-direction: column;
     margin-bottom: 100px;
 }
 
+.card-text-staff {
+    font-family: "oswald";
+    font-size: 18px;
+}
 
+.container-fluid-card-staff {
+    margin-bottom: 100px;
+}
+
+#ab-us-form-intro {
+    font-family: "oswald";
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.bg-color-form {
+    background-color: #A57A84;
+}
+
+.form-style {
+    margin: 0 auto;
+    width:70%;
+    margin-bottom: 100px;
+}
 
 
 
