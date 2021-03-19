@@ -95,6 +95,17 @@
     font-family: "Oswald";
 }
 
+.link-winelist {
+    font-family: "Oswald";
+    color: black;
+    font-size: 16px;
+}
+
+.link-winelist:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
 /*----Title bottom----*/
 
 .title-bottom-home {
@@ -211,6 +222,8 @@ flex-direction: column;
 
 .container-fluid-card-staff {
     margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #ab-us-form-intro {
@@ -234,3 +247,15 @@ flex-direction: column;
 
 
 /*----About us page end----*/
+
+
+/*----Menu page beginning----*/
+
+.menu-features {
+    font-family: "oswald";
+    color: black;
+}
+
+
+
+/*----Menu page page end----*/
