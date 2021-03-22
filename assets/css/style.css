@@ -259,3 +259,21 @@ flex-direction: column;
 
 
 /*----Menu page page end----*/
+
+
+
+/*----Gallery page beginning----*/
+
+.embedded-video {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.embedded-map {
+    margin-bottom: 150px;
+}
+
+
+
+/*----Gallery page ends----*/
+
