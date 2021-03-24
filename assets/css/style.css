@@ -256,6 +256,22 @@ flex-direction: column;
     color: black;
 }
 
+.card-text {
+    font-family: "oswald";
+    font-weight: lighter;
+}
+
+.menu-features {
+    margin-top: 100px;
+}
+
+.card-deck {
+    margin-bottom: 100px;
+}
+
+.menu-list-bottom {
+    margin-bottom: 100px;
+}
 
 
 /*----Menu page page end----*/
