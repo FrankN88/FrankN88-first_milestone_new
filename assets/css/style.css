@@ -126,6 +126,10 @@
     color: black;
 }
 
+li h6 {
+    font-family: "oswald";
+}
+
 
 
 
@@ -274,7 +278,7 @@ flex-direction: column;
 }
 
 
-/*----Menu page page end----*/
+/*----Menu page page ends----*/
 
 
 
