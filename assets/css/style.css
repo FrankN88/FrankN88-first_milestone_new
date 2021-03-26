@@ -12,7 +12,7 @@
 /*----Top Banner----*/
 
 #top-banner {
-    min-height: 30px;
+    min-height: 25px;
     position: absolute;
 
 }
@@ -25,7 +25,11 @@
 
 
 .header-style {
-    padding-top: 50px;
+    padding-top: 25px;
+}
+
+.container-fluid {
+    width: 100%;
 }
 
 
@@ -35,10 +39,11 @@
 
 
 
-
 /*----Navbar----*/
 
-
+.navbar-wrapper {
+    background-color: white;
+}
 
 
 /*----Navbar Links----*/
@@ -68,8 +73,8 @@
     text-decoration: none;
     font-family: "Oswald";
     font-weight: 500;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .nav-link-top:hover {
