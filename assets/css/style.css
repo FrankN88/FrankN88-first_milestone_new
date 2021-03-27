@@ -272,13 +272,14 @@ flex-direction: column;
 }
 
 .bg-color-form {
-    background-color: #A57A84;
+    background-color: #967d9a;
 }
 
 .form-style {
     margin: 0 auto;
     width:70%;
     margin-bottom: 100px;
+    padding: 30px;
 }
 
 
