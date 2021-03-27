@@ -129,10 +129,9 @@
 
 .list-unstyled-feedback {
     margin-left: auto;
-    margin-bottom: none;
-    margin-top: none;
     color: black;
 }
+
 
 li h6 {
     font-family: "oswald";
@@ -300,15 +299,16 @@ flex-direction: column;
 }
 
 .menu-features {
-    margin-top: 100px;
+    margin-top: 20px;
 }
 
 .card-deck {
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 
 .menu-list-bottom {
-    margin-bottom: 100px;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 
