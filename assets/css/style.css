@@ -182,6 +182,21 @@ flex-direction: column;
     padding-top: 40px;
 }
 
+/*----Footer email link----*/
+
+#email-link:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
+/*----Footer phone link----*/
+
+#phone-link:hover {
+    color: #663399;
+    text-decoration: none;
+}
+
+
 
 
 /*----Footer btn----*/
