@@ -83,6 +83,9 @@
 }
 
 
+/*----Carousel----*/
+
+
 /*----Div Home Cards home----*/
 
 .home-card-style {
@@ -125,9 +128,9 @@
 
 
 .list-unstyled-feedback {
-    margin-left: 50px;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-left: auto;
+    margin-bottom: none;
+    margin-top: none;
     color: black;
 }
 
