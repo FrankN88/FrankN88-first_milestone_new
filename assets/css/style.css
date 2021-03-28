@@ -93,10 +93,6 @@
 }
 
 
-
-
-
-
 /*----Top menu----*/
 
 .list-unstyled-feedback p,h5 {
@@ -120,8 +116,7 @@
     font-family: "Oswald";
     color: black;
     font-size: 32px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 50px;
 }
 
 /*----Feedback part home----*/
@@ -130,6 +125,8 @@
 .list-unstyled-feedback {
     margin-left: auto;
     color: black;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 
