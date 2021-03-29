@@ -334,22 +334,22 @@ flex-direction: column;
     width: 30%;
 }
 
-.embedded-video {
-    margin-top: 100px;
+
+#masterpiece {
+    margin-top: 25px;
 }
 
-.masterpiece {
-    margin-top: 100px;
+#embedded-video {
+    margin-top: 15px;
 }
 
-.reach-us {
-    margin-top: 50px;
+#reach-us {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+#embedded-map {
     margin-bottom: 50px;
-}
-
-.embedded-map {
-    margin-bottom: 100px;
-    margin-top: 50px;
 }
 
 
