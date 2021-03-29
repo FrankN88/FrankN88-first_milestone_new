@@ -48,20 +48,22 @@
 
 /*----Navbar Links----*/
 
-.nav-item {
+.nav-link {
     padding-right: 30px;
     font-size: large;
     font-weight: 500;
     margin-right: 50px;
     font-family: "Oswald";
+    color: #333333 !important;
 }
 
 
 
-.nav-item:hover {
-    color: black;
+.nav-link:hover {
+    color: #663399 !important;
     text-decoration: none;
 }
+
 
 
 /*----Catchy line----*/
@@ -344,7 +346,7 @@ flex-direction: column;
 }
 
 #reach-us {
-    margin-top: 25px;
+    margin-top: 50px;
     margin-bottom: 15px;
 }
 
