@@ -18,9 +18,6 @@
 }
 
 
-
-
-
 /*----Header----*/
 
 
@@ -259,11 +256,6 @@ flex-direction: column;
     margin-bottom: 50px;
 }
 
-#ab-us-form-intro {
-    font-family: "oswald";
-    margin-bottom: 25px;
-    
-}
 
 .bg-color-form {
     background-color: #967d9a;
@@ -284,14 +276,22 @@ flex-direction: column;
     padding-top: 10px;
     font-size: 16px;
 }
+#form-titles {
+    text-align: center;
+
+}
 
 #subscribe-title {
     font-family: "oswald";
-    margin-top: 75px;
+    margin-top: 50px;
     margin-bottom: 25px;
 }
 
-
+#ab-us-form-intro {
+    font-family: "oswald";
+    margin-bottom: 25px;
+    
+}
 
 /*----About us page end----*/
 
