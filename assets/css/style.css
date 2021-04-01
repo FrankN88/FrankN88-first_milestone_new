@@ -408,9 +408,10 @@ h5 {
 
 
 
-
 #masterpiece {
-    margin-top: 25px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: "oswald";
 }
 
 #embedded-video {
@@ -420,6 +421,7 @@ h5 {
 #reach-us {
     margin-top: 50px;
     margin-bottom: 15px;
+    font-family: "oswald";
 }
 
 #embedded-map {
