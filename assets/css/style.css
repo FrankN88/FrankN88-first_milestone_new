@@ -418,6 +418,10 @@ h5 {
     margin-top: 15px;
 }
 
+#iframe-video {
+    border: 0;
+}
+
 #reach-us {
     margin-top: 50px;
     margin-bottom: 15px;
