@@ -237,6 +237,9 @@ flex-direction: column;
     text-decoration: none;
 }
 
+.btn-align {
+    text-align: center;
+}
 
 
 /*----About us page beginning----*/
