@@ -163,6 +163,21 @@ flex-direction: column;
     float: right;
 }
 
+/*----new Footer style test----*/
+
+.new-link-footer {
+    font-size: 40px;
+    margin: auto;
+}
+
+.new-link-footer i {
+    color: #ffffff;
+
+}
+
+
+/*----new Footer style test end----*/
+
 
 /*----Footer text----*/
 
@@ -213,6 +228,8 @@ flex-direction: column;
 .btn i {
     padding-left: 5px;
     padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .top-nav-button a:hover{
