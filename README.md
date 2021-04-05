@@ -104,6 +104,28 @@ Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file
 #### Colour Scheme
 The main colours used throughout the website are a mixture of Dark Purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), Black fonts.
 
+#### Typography
+  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case for any reason the font isn't being imported into the site correctly.
+
+ #### Imagery
+  -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. 
+      The carousel right at the homepage is an immediate example of an element that catches the attention of the user with the most important features of the place.
+  
+  It also has a modern but classic energetic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
+
+## Features
+
+-   Responsive on all device sizes
+
+-   Interactive elements
+
+Each page of the website features a consistent responsive navigational system:
+- The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
+- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
+- The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on biggers screens.
+
+
+
 
 
 
