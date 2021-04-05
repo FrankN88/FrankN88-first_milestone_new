@@ -160,7 +160,11 @@ Lighthouse report viewer extension has been used to assess: SEO, Accessibility, 
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [Lighthouse extension] (https://developers.google.com/web/tools/lighthouse)
+-   [Lighthouse extension] (https://developers.google.com/web/tools/lighthouse) - [Results](https://github.com/)
+
+
+
+
 
 
 
