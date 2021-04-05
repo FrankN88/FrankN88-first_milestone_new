@@ -69,23 +69,31 @@ The website needs to enable the **Restaurant** to:
      - Provide a channel of communication for enquires (via the form or social media)
      - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
 
-     #### Scope
+
+#### Scope
 A scope was defined in order to identify what features have to be included based on the strategy previously defined. This was broken into two categories:
-     - **Content Requirements**
+- **Content Requirements**
      - The user will be looking for:
           - General information
-          - Feedbacks
           - New products
+          - Feedbacks
           - Contact details
           - Social Links
-     - **Functionality Requirements**
+- **Functionality Requirements**
      - The user will be able to:
           - Easily navigate through the site in order to find the information they want
           - Be able to find links to external sites in order to:
                - Verify the status of the place
                - Find directions
-               - have always under control news and specials
-          - Contact the restaurant directly through the contacts.
+               - Have always under control news and specials
+          - Contact the restaurant directly through the contacts
+
+ #### Structure
+The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.        
+
+#### Skeleton 
+Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/N6vxVhX02vOxUAnFLUACMH/First-framework?node-id=0%3A1)
+
 
 
 
