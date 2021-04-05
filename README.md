@@ -148,11 +148,21 @@ Each page of the website features a consistent responsive navigational system:
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Favicon:](https://favicon.io/)
-    - Favicon was used to create the logo.
+    - Favicon was used to create the icon.
 1. [Figma:](https://www.figma.com/login)
     - Figma was used to create the [wireframes](https://github.com/) during the design process.
 1. [Unsplash:](https://unsplash.com/)
     - Unsplash was used to download pictures based on the specific features of each page, intended orientation of the images in the pages and best match with bootstrap elements.
+1. [Canva:](https://www.canva.com/design/)
+    - Canva was used to create the logo.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
 
 
 
