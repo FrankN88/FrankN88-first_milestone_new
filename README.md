@@ -69,5 +69,23 @@ The website needs to enable the **Restaurant** to:
      - Provide a channel of communication for enquires (via the form or social media)
      - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
 
+     #### Scope
+A scope was defined in order to identify what features have to be included based on the strategy previously defined. This was broken into two categories:
+     - **Content Requirements**
+     - The user will be looking for:
+          - General information
+          - Feedbacks
+          - New products
+          - Contact details
+          - Social Links
+     - **Functionality Requirements**
+     - The user will be able to:
+          - Easily navigate through the site in order to find the information they want
+          - Be able to find links to external sites in order to:
+               - Verify the status of the place
+               - Find directions
+               - have always under control news and specials
+          - Contact the restaurant directly through the contacts.
+
 
 
