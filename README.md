@@ -124,6 +124,13 @@ Each page of the website features a consistent responsive navigational system:
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
 - The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on biggers screens.
 
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
 
 
 
