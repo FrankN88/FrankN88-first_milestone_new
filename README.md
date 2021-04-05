@@ -1,4 +1,4 @@
-<h1 align="center">Pasta & Vino</h1>
+<h1 align="center"># Pasta & Vino</h1>
 
 ![Pasta&Vino Mockup Images](assets/image to be inserted)
 
@@ -41,5 +41,33 @@ The main requirements were to make a responsive and static website with a minimu
         1. As a Frequent User, I want to check to see if there are any newly added features regarding the kitchen.
         2. As a Frequent User, I want to check to see if there are any updates in the wines and spirits list.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or discounts or special events.
+
+        #### Strategy
+Broken into three categories, the website will focus on the following target audiences:
+- **Roles:**
+     - Current clients of the restaurant
+     - Future clients
+     - Wine lovers in town
+
+- **Demographic:**
+     - 18 or above for the wines and spirits
+     - Any age for the restaurant menu
+     - Whoever is in search of a wine experience
+
+The website needs to enable the **user** to:
+- Retrieve desired information:
+     - Menu information
+     - New imported products
+     - Upcoming tasting events
+     - Contact information (standard and social enquires)
+
+The website needs to enable the **Restaurant** to:
+- Develop an online presence 
+- Provide an easily navigable website for users to find relevant information:
+     - New products
+     - New menu and special features connected to the kitchen
+- Provide a channel of communication for enquires (via the form or social media)
+- Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
+
 
 
