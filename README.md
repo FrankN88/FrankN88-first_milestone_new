@@ -131,6 +131,33 @@ Each page of the website features a consistent responsive navigational system:
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.6:](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Tiny png:](https://tinypng.com/)
+    - Tiny png was used to compress images.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the fonts.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Favicon:](https://favicon.io/)
+    - Favicon was used to create the logo.
+1. [Figma:](https://www.figma.com/login)
+    - Figma was used to create the [wireframes](https://github.com/) during the design process.
+1. [Unsplash:](https://unsplash.com/)
+    - Unsplash was used to download pictures based on the specific features of each page, intended orientation of the images in the pages and best match with bootstrap elements.
+
+
+
+
+
 
 
 
