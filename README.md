@@ -92,7 +92,21 @@ A scope was defined in order to identify what features have to be included based
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.        
 
 #### Skeleton 
-Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/N6vxVhX02vOxUAnFLUACMH/First-framework?node-id=0%3A1)
+Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/N6vxVhX02vOxUAnFLUACMH/First-framework?node-id=0%3A1).
+ **Pages:**
+ 1. Home
+ 2. Menu
+ 3. Gallery
+ 4. About us
+
+### Design
+
+#### Colour Scheme
+The main colours used throughout the website are a mixture of Dark Purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), Black fonts.
+
+
+
+
 
 
 
