@@ -1,4 +1,4 @@
-<h1 align="center"># Pasta & Vino</h1>
+<h1 align="center">Pasta & Vino</h1>
 
 ![Pasta&Vino Mockup Images](assets/image to be inserted)
 
@@ -54,7 +54,7 @@ Broken into three categories, the website will focus on the following target aud
      - Any age for the restaurant menu
      - Whoever is in search of a wine experience
 
-The website needs to enable the **user** to:
+The website needs to enable the **User** to:
 - Retrieve desired information:
      - Menu information
      - New imported products
@@ -62,12 +62,12 @@ The website needs to enable the **user** to:
      - Contact information (standard and social enquires)
 
 The website needs to enable the **Restaurant** to:
-- Develop an online presence 
-- Provide an easily navigable website for users to find relevant information:
+     - Develop an online presence 
+     - Provide an easily navigable website for users to find relevant information:
      - New products
      - New menu and special features connected to the kitchen
-- Provide a channel of communication for enquires (via the form or social media)
-- Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
+     - Provide a channel of communication for enquires (via the form or social media)
+     - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
 
 
 
