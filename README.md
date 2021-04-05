@@ -2,7 +2,6 @@
 
 ![Pasta&Vino Mockup Images](assets/image to be inserted)
 
-
 [View the live project here](https://github.com/FrankN88/FrankN88-first_milestone_new)
 
 ## Introduction
@@ -18,8 +17,6 @@ The focus of the site is to create an online presence allowing wine lovers and c
 This is the first of four Milestone Projects that the developer must complete during their Full Stack Web Development Program at The Code Institute. 
 
 The main requirements were to make a responsive and static website with a minimum of three pages using primarily **HTML5** and **CSS3**.
-
-[Back to top ⇧](#Pasta & Vino)
 
 ## User Experience (UX)
 
@@ -159,9 +156,15 @@ Each page of the website features a consistent responsive navigational system:
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+Lighthouse report viewer extension has been used to assess: SEO, Accessibility, Performance and Best Practices.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [Lighthouse extension] (https://developers.google.com/web/tools/lighthouse)
+
+
+
+
 
 
 
