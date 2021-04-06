@@ -60,12 +60,25 @@
         1. At the bottom of every page there is a footer which content is consistent throughout all pages.
         2. In the page "About us" the users can insert their personal details to receive the newsletter and special offers/events.
 
-   
+### Further Testing
 
-    
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+##The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+## Code Validation
+The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
+
+**Results:**
+
+- Home Page
+
+![Home Page HTML Validation Results]()
+
