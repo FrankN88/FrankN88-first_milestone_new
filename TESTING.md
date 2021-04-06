@@ -46,7 +46,21 @@
         2. An interested returning custumer has the chance to immediately click on any link in the footer to be directed to the social networks of the restaurant as much as the Youtube channel.
         3. A little gallery will show parts of the place to a customer who wants to show the restaurant to a friend. The menu page has been thought for the same reason other than showing the main dishes of the moment.
 
-     
+-   #### Frequent User Goals
+
+    1. As a Frequent User, I want to check to see if there are any newly added features in the menu, wine list or events.
+
+        1. The user would already be comfortable with the website layout and can easily check the menu page.
+
+    2. As a Frequent User, I want to check to see if there are any news related to the restaurant acitivity.
+
+        1. The user would already be comfortable with the website layout and can easily click the links to the selected pages. 
+
+    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        1. At the bottom of every page there is a footer which content is consistent throughout all pages.
+        2. In the page "About us" the users can insert their personal details to receive the newsletter and special offers/events.
+
+   
 
     
 
