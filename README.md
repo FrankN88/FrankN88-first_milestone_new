@@ -155,12 +155,9 @@ Each page of the website features a consistent responsive navigational system:
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-Lighthouse report viewer extension has been used to assess: SEO, Accessibility, Performance and Best Practices.
+Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [Lighthouse extension] (https://developers.google.com/web/tools/lighthouse) - [Results](https://github.com/)
+
 
 
 
