@@ -27,6 +27,29 @@
         2. Social links and contacts always adapt responsively in order to be clicked without any difficulty on any device.
         3. The email and phone in the footer contain a link to facilitate communication with the restaurant.
 
+-   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to find the new features in the menu and updated list of wines.
+
+        1. These are clearly shown in the menu part and easily accessible via the specific links.
+        2. The link will immediately open in a new page a pdf list of wines and beverages with prices and details.
+
+    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+
+        1. Contacts are easily visible in every page in the footer.
+        2. In the "About us" page there is a form for communication with the place.
+        3. The footer contains links to the organisations Facebook,Youtube, Twitter and Instagram page as well as the organization's email.
+        4. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+
+    3. As a Returning Visitor, I want to find the social links so that I can join and interact with others in the community.
+        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        2. An interested returning custumer has the chance to immediately click on any link in the footer to be directed to the social networks of the restaurant as much as the Youtube channel.
+        3. A little gallery will show parts of the place to a customer who wants to show the restaurant to a friend. The menu page has been thought for the same reason other than showing the main dishes of the moment.
+
+     
+
+    
+
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
