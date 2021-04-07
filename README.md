@@ -78,8 +78,8 @@ A scope was defined in order to identify what features have to be included based
           - Social Links
 - **Functionality Requirements**
      - The user will be able to:
-          - Easily navigate through the site in order to find the information they want
-             - Be able to find links to external sites in order to:
+     - Easily navigate through the site in order to find the information they want
+      - Be able to find links to external sites in order to:
              - Verify the status of the place
              - Find directions
              - Have always under control news and specials
@@ -101,7 +101,7 @@ Several style changes were made in the final project compared to the inital wire
 ### Design
 
 #### Colour Scheme
-The main colours used throughout the website are a mixture of Dark Purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), Black fonts.
+  - The main colours used throughout the website are a mixture of Dark Purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), Black fonts.
 
 #### Typography
   -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case for any reason the font isn't being imported into the site correctly.
@@ -121,7 +121,7 @@ The main colours used throughout the website are a mixture of Dark Purple (to re
 Each page of the website features a consistent responsive navigational system:
 - The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
-- The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on biggers screens.
+- The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on bigger screens.
 
 ## Technologies Used
 
@@ -204,7 +204,7 @@ The developer consulted multiple sites in order to better understand the code th
 
 ### Content
 
--   All content was written by the developer.
+-   All content was written by the developer (except for the Bootstrap features).
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
