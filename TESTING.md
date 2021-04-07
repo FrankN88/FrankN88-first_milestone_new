@@ -108,7 +108,7 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
 
 **Results:**
-![Style sheet validation results](assets/)
+![Style sheet validation results](assets/testing_files/validators_images/css_validated.png)
 
 ### Browser Validation
 - Chrome
