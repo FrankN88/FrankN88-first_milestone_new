@@ -60,28 +60,55 @@
         1. At the bottom of every page there is a footer which content is consistent throughout all pages.
         2. In the page "About us" the users can insert their personal details to receive the newsletter and special offers/events.
 
-### Further Testing
+## Automated Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-
-
-##The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-
-## Code Validation
+### Code Validation
 The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
 
 **Results:**
 
 - Home Page
 
-- On a mobile device, the hero image stacks on top of the other column for UX purposes
+     ![Home Page HTML Validation Results](assets/)
 
-     ![Home page - mobile version](assets/readme_files/2021-04-07 09.45.28.gif)
+- Menu Page
+
+     ![Menu Page HTML Validation Results](assets/)
+
+- Gallery Page
+
+     ![Gallery Page HTML Validation Results](assets/)
+
+- About us Page
+
+     ![About us Page HTML Validation Results](assets/)
+
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
+
+**Results:**
+![Style sheet validation results](assets/)
+
+### Browser Validation
+- Chrome
+- Edge
+- Opera
+- Firefox
+
+## User testing 
+Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
+
+It was through this testing that the following changes were made:
+- Removing thumbnail from most pictures.
+- Centering social media links in the footer instead of floating them to the right.
+- Assessing the combinations of colours and the contrast.
+- Fonts choice looking smart and not invasive.
+- Improving the overall images quality compared to the initial framework idea.
+- Overall balance in the positioning and sizing of images in the pages.
+***
+
+
+
+
+
 
 
