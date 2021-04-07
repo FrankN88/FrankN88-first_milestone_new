@@ -1,6 +1,6 @@
 <h1 align="center">Pasta & Vino</h1>
 
-![Pasta&Vino Mockup Images](assets/image to be inserted)
+![Pasta&Vino Mockup Images](assets/testing_files/image_readme.png)
 
 [View the live project here](https://github.com/FrankN88/FrankN88-first_milestone_new)
 
@@ -42,48 +42,48 @@ The main requirements were to make a responsive and static website with a minimu
         #### Strategy
 Broken into three categories, the website will focus on the following target audiences:
 - **Roles:**
-     - Current clients of the restaurant
-     - Future clients
-     - Wine lovers in town
+- Current clients of the restaurant
+- Future clients
+- Wine lovers in town
 
 - **Demographic:**
-     - 18 or above for the wines and spirits
-     - Any age for the restaurant menu
-     - Whoever is in search of a wine experience
+- 18 or above for the wines and spirits
+- Any age for the restaurant menu
+- Whoever is in search of a wine experience
 
 The website needs to enable the **User** to:
 - Retrieve desired information:
-     - Menu information
-     - New imported products
-     - Upcoming tasting events
-     - Contact information (standard and social enquires)
+- Menu information
+- New imported products
+- Upcoming tasting events
+- Contact information (standard and social enquires)
 
 The website needs to enable the **Restaurant** to:
-     - Develop an online presence 
-     - Provide an easily navigable website for users to find relevant information:
-     - New products
-     - New menu and special features connected to the kitchen
-     - Provide a channel of communication for enquires (via the form or social media)
-     - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
+- Develop an online presence 
+- Provide an easily navigable website for users to find relevant information about:
+ - New products
+ - New menu and special features connected to the kitchen
+ - Provide a channel of communication for enquires (via the form or social media)
+ - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
 
 
 #### Scope
 A scope was defined in order to identify what features have to be included based on the strategy previously defined. This was broken into two categories:
 - **Content Requirements**
-     - The user will be looking for:
-          - General information
-          - New products
-          - Feedbacks
-          - Contact details
-          - Social Links
+- The user will be looking for:
+ - General information
+ - New products
+ - Feedbacks
+ - Contact details
+ - Social Links
 - **Functionality Requirements**
-     - The user will be able to:
-     - Easily navigate through the site in order to find the information they want
-      - Be able to find links to external sites in order to:
-             - Verify the status of the place
-             - Find directions
-             - Have always under control news and specials
-             - Contact the restaurant directly through the contacts
+ - The user will be able to:
+    - Easily navigate through the site in order to find the information they want
+    - Be able to find links to external sites in order to:
+        - Verify the status of the place
+        - Find directions
+        - Have always under control news and specials
+        - Contact the restaurant directly through the contacts
 
  #### Structure
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.        
@@ -101,7 +101,7 @@ Several style changes were made in the final project compared to the inital wire
 ### Design
 
 #### Colour Scheme
-  - The main colours used throughout the website are a mixture of Dark Purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), Black fonts.
+  - The main colours used throughout the website are a mixture of dark purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), black fonts.
 
 #### Typography
   -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case for any reason the font isn't being imported into the site correctly.
@@ -109,8 +109,8 @@ Several style changes were made in the final project compared to the inital wire
  #### Imagery
   -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. 
       The carousel right at the homepage is an immediate example of an element that catches the attention of the user with the most important features of the place.
-  
-  It also has a modern but classic energetic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
+
+  - It also has a modern but classic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
 
 ## Features
 
