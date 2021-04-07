@@ -60,6 +60,28 @@
         1. At the bottom of every page there is a footer which content is consistent throughout all pages.
         2. In the page "About us" the users can insert their personal details to receive the newsletter and special offers/events.
 
+## Manual Testing
+
+### Common Elements Testing
+Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Automated Testing
 
 ### Code Validation
@@ -69,7 +91,7 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 - Home Page
 
-     ![Home Page HTML Validation Results](assets/)
+     ![Home Page HTML Validation Results](assets/testing)
 
 - Menu Page
 

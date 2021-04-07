@@ -90,8 +90,9 @@ The information architecture was organized in a fluid and clear way in order to 
 
 #### Skeleton 
 Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/N6vxVhX02vOxUAnFLUACMH/First-framework?node-id=0%3A1).
-Several style changes were made in the final project compared to the inital wireframe on Figma. Those changes were mainly related to the choice of different pictures to better suit the new layout and Bootstrap features (e.g. Carouusel,cards etc), colours, font size, positioning in the page; all aimed to provide the best user experience and responsiveness.
- **Pages:**
+Several style changes were made in the final project compared to the inital wireframe on Figma. Those changes were mainly related to the choice of different pictures to better suit the new layout and Bootstrap features (e.g. Carousel,cards etc), colours, font size, positioning in the page; all aimed to provide the best user experience and responsiveness.
+
+**Pages:**
  1. Home
  2. Menu
  3. Gallery
