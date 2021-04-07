@@ -80,5 +80,8 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 - Home Page
 
-![Home Page HTML Validation Results]()
+- On a mobile device, the hero image stacks on top of the other column for UX purposes
+
+     ![Home page - mobile version](assets/readme_files/2021-04-07 09.45.28.gif)
+
 
