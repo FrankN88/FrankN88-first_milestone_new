@@ -48,7 +48,7 @@ Broken into three categories, the website will focus on the following target aud
 
 - **Demographic:**
 - 18 or above for the wines and spirits
-- Any age for the restaurant menu
+- Any age for the restaurant food menu
 - Whoever is in search of a wine experience
 
 The website needs to enable the **User** to:
@@ -120,7 +120,7 @@ Several style changes were made in the final project compared to the inital wire
 
 Each page of the website features a consistent responsive navigational system:
 - The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
-- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
+- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation links.
 - The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on bigger screens.
 
 ## Technologies Used
@@ -135,7 +135,7 @@ Each page of the website features a consistent responsive navigational system:
 1. [Bootstrap 4.6:](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Tiny png:](https://tinypng.com/)
-    - Tiny png was used to compress images.
+    - Tiny png was used to compress all of the images.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the fonts.
 1. [Font Awesome:](https://fontawesome.com/)
