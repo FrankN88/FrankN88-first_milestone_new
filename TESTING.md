@@ -91,19 +91,19 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 - Home Page
 
-     ![Home Page HTML Validation Results](assets/testing)
+     ![Home Page HTML Validation Results](assets/testing_files/validators_images/index_html_validated.png)
 
 - Menu Page
 
-     ![Menu Page HTML Validation Results](assets/)
+     ![Menu Page HTML Validation Results](assets/testing_files/validators_images/menu_html_validated.png)
 
 - Gallery Page
 
-     ![Gallery Page HTML Validation Results](assets/)
+     ![Gallery Page HTML Validation Results](assets/testing_files/validators_images/gallery_html_validated.png)
 
 - About us Page
 
-     ![About us Page HTML Validation Results](assets/)
+     ![About us Page HTML Validation Results](assets/testing_files/validators_images/about_us_html_validated.png)
 
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
 
