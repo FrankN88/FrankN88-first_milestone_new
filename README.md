@@ -1,6 +1,6 @@
 <h1 align="center">Pasta & Vino</h1>
 
-![Pasta&Vino Mockup Images](assets/testing_files/image_readme.png)
+![Pasta&Vino Mockup Images](assets/testing_files/image_readmehero.png)
 
 [View the live project here](https://github.com/FrankN88/FrankN88-first_milestone_new)
 
