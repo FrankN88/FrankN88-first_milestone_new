@@ -79,11 +79,11 @@ A scope was defined in order to identify what features have to be included based
 - **Functionality Requirements**
      - The user will be able to:
           - Easily navigate through the site in order to find the information they want
-          - Be able to find links to external sites in order to:
-               - Verify the status of the place
-               - Find directions
-               - Have always under control news and specials
-          - Contact the restaurant directly through the contacts
+             - Be able to find links to external sites in order to:
+             - Verify the status of the place
+             - Find directions
+             - Have always under control news and specials
+             - Contact the restaurant directly through the contacts
 
  #### Structure
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.        
@@ -200,7 +200,7 @@ The developer consulted multiple sites in order to better understand the code th
 - [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
-- [MDN web Docs](https://developer.mozilla.org/en-US/"Link to MDN Web Docs")
+- [MDN Web Docs](https://developer.mozilla.org/en-US/ "Link to MDN Web Docs")
 
 ### Content
 
@@ -211,7 +211,7 @@ The developer consulted multiple sites in order to better understand the code th
 ### Media
 - Some Images come from my personal archives
 
-- All the other Images were downloaded from Unsplash (https://unsplash.com/ "Link to Unsplash page").
+- All the other Images were downloaded from [Unsplash](https://unsplash.com/ "Link to Unsplash page").
 
 ### Acknowledgements
 
