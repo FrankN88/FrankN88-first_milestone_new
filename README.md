@@ -2,7 +2,7 @@
 
 ![Pasta&Vino Mockup Images](assets/testing_files/readmehero.png)
 
-[View the live project here](https://github.com/FrankN88/FrankN88-first_milestone_new)
+[View the live project here](https://8000-gray-capybara-0uwz61wk.ws-eu03.gitpod.io/)
 
 ## Introduction
 
@@ -95,7 +95,10 @@ Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file
 Several style changes were made in the final project compared to the inital wireframe on Figma. Those changes were mainly related to the choice of different pictures to better suit the new layout and Bootstrap features (e.g. Carousel,cards etc), colours, font size, positioning in the page; all aimed to provide the best user experience and responsiveness.
 
 **Pages:**
- 1. Home
+ 1. Home Page:
+ 
+![Home Page Wireframe](assets/testing_files/ux_stories_screenshots/home_layout.png "Home Page Wireframe")
+
  2. Menu
  3. Gallery
  4. About us
