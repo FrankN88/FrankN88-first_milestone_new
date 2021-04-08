@@ -97,11 +97,19 @@ Several style changes were made in the final project compared to the inital wire
 **Pages:**
  1. Home Page:
  
-![Home Page Wireframe](assets/testing_files/ux_stories_screenshots/home_layout.png "Home Page Wireframe")
+![Home Page Wireframe](assets/testing_files/ux_stories_screenshots/home_frame "Home Page Wireframe")
 
  2. Menu
+
+ ![Menu Page Wireframe](assets/testing_files/ux_stories_screenshots/menu_frame "Menu Wireframe")
+ 
  3. Gallery
+
+  ![Menu Page Wireframe](assets/testing_files/ux_stories_screenshots/gallery_frame "Gallery Wireframe")
+
  4. About us
+
+  ![Menu Page Wireframe](assets/testing_files/ux_stories_screenshots/about_us_frame "About us Wireframe")
 
 ### Design
 
