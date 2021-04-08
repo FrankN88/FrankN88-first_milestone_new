@@ -39,7 +39,7 @@ The main requirements were to make a responsive and static website with a minimu
         2. As a Frequent User, I want to check to see if there are any updates in the wines and spirits list.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or discounts or special events.
 
-        #### Strategy
+#### Strategy
 Broken into three categories, the website will focus on the following target audiences:
 - **Roles:**
 - Current clients of the restaurant
@@ -85,8 +85,10 @@ A scope was defined in order to identify what features have to be included based
         - Have always under control news and specials
         - Contact the restaurant directly through the contacts
 
- #### Structure
-The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.        
+#### Structure
+The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.
+
+![Site Map](assets/testing_files/ux_stories_screenshots/structure_website2.png)
 
 #### Skeleton 
 Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/N6vxVhX02vOxUAnFLUACMH/First-framework?node-id=0%3A1).
@@ -106,7 +108,7 @@ Several style changes were made in the final project compared to the inital wire
 #### Typography
   -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case for any reason the font isn't being imported into the site correctly.
 
- #### Imagery
+#### Imagery
   -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. 
       The carousel right at the homepage is an immediate example of an element that catches the attention of the user with the most important features of the place.
 
