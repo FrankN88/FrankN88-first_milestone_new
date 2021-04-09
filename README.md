@@ -140,6 +140,11 @@ Each page of the website features a consistent responsive navigational system:
 - Google Maps Embed - iframe embedding of Google maps (on the gallery page), showing the location of the restaurant. The map is responsive in smaller devices.
 - Youtube video - iframe embedding a Youtube video showing a chef plating up (on the gallery page).
 
+### Features to Implement in the future
+- **Merchandise Shop**
+
+to be completed!!!!!!!
+
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the pages.
 
