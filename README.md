@@ -135,6 +135,27 @@ Each page of the website features a consistent responsive navigational system:
 - The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation links.
 - The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on bigger screens.
+- In the Footer there is a mailto action above the email.
+- Carousel - A carousel showing immediately the main features of the place on the Home page.
+- Google Maps Embed - iframe embedding of Google maps (on the gallery page), showing the location of the restaurant. The map is responsive in smaller devices.
+- Youtube video - iframe embedding a Youtube video showing a chef plating up (on the gallery page).
+
+## Issues and Bugs 
+The developer ran into a number of issues during the development of the pages.
+
+to be developed!!!!
+
+**Navbar Bug**
+
+**Social Links Issue**
+
+**Gallery Bug**
+
+**Responsiveness on smaller device Bug**
+
+**Form Bug**
+
+
 
 ## Technologies Used
 
