@@ -42,15 +42,15 @@ The main requirements were to make a responsive and static website with a minimu
 #### Strategy
 Broken into three categories, the website will focus on the following target audiences:
 
-**Roles:**
-- Current clients of the restaurant
-- Future clients
-- Wine lovers in town
+- **Roles:**
+ - Current clients of the restaurant
+ - Future clients
+ - Wine lovers in town
 
-**Demographic:**
-- 18 or above for the wines and spirits
-- Any age for the restaurant food menu
-- Whoever is in search of a wine experience
+- **Demographic:**
+ - 18 or above for the wines and spirits
+ - Any age for the restaurant food menu
+ - Whoever is in search of a wine experience
 
 The website needs to enable the **User** to:
 - Retrieve desired information:
@@ -71,16 +71,16 @@ The website needs to enable the **Restaurant** to:
 #### Scope
 A scope was defined in order to identify what features have to be included based on the strategy previously defined. This was broken into two categories:
 
-**Content Requirements**
-- The user will be looking for:
+- **Content Requirements**
+ - The user will be looking for:
  - General information
  - New products
  - Feedbacks
  - Contact details
  - Social Links
 
-**Functionality Requirements**
- - The user will be able to:
+- **Functionality Requirements**
+  - The user will be able to:
     - Easily navigate through the site in order to find the information they want
     - Be able to find links to external sites in order to:
         - Verify the status of the place
