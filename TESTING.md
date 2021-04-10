@@ -83,6 +83,10 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
      ![LET US SPOIL YOU link](assets/testing_files/gif/link_to_menu.gif)
 
+- Clicking on wine list link in the Home Page and Menu page will open a pdf list in another tab:
+
+     ![Ckick wine link](assets/testing_files/gif/wine_link.gif)
+
 
 
 
