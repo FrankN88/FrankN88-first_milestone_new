@@ -65,6 +65,11 @@
 ### Common Elements Testing
 Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
 
+- Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on
+
+     ![Navbar hover effect](assets/testing_files/gif/2021-04-07 09.45.28.gif)
+
+
 
 
 
@@ -125,9 +130,7 @@ It was through this testing that the following changes were made:
 - Assessing the combinations of colours and the contrast.
 - Fonts choice looking smart and not invasive.
 - Improving the overall images quality compared to the initial framework idea.
-- Overall balance in the positioning and sizing of images in the pages.
-
-[Back to top ⇧](#Pasta-&-Vino---Testing)
+- Overall balance in the positioning and sizing of images in the pages. 
 
 ***
 
