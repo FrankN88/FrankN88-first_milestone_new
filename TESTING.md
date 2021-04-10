@@ -75,6 +75,10 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
      ![Facebook Social link](assets/testing_files/gif/hover&click_social_footer.gif)
 
+- Clicking on the logo will take you back to the home page or refresh it:
+
+     ![Ckick home page](assets/testing_files/gif/click_logo_homepage.gif)
+
 
 
 
