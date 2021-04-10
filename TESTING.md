@@ -67,7 +67,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on
 
-     ![Navbar hover effect](assets/testing_files/gif/2021-04-07 09.45.28.gif)
+     ![Navbar hover effect](assets/testing_files/gif/hover.gif)
 
 
 
