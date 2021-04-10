@@ -122,7 +122,7 @@ Manual testing was conducted on the following elements of the [About Us Page](ab
  - The Navbar turns into a toggler icon in smaller devices
 
    ![About Us Test](assets/testing_files/gif/about_us_test.gif)
-   
+
 
 ## Automated Testing
 
