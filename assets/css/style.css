@@ -141,6 +141,12 @@ flex-direction: column;
 
 }
 
+.new-link-footer:hover i {
+    color: #663399 !important;
+    text-decoration: none;
+}
+
+
 /*----Footer text----*/
 
 

@@ -65,9 +65,18 @@
 ### Common Elements Testing
 Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
 
-- Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on
+- Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on:
 
      ![Navbar hover effect](assets/testing_files/gif/hover.gif)
+
+- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab:
+
+     Social link in the footer:
+
+     ![Facebook Social link](assets/testing_files/gif/hover&click_social_footer.gif)
+
+
+
 
 
 
