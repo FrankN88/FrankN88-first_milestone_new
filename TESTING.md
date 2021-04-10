@@ -1,4 +1,4 @@
-## Pasta & Vino - Testing
+# Pasta & Vino - Testing
 
 [Main README.md file](/README.md)
 
@@ -126,6 +126,9 @@ It was through this testing that the following changes were made:
 - Fonts choice looking smart and not invasive.
 - Improving the overall images quality compared to the initial framework idea.
 - Overall balance in the positioning and sizing of images in the pages.
+
+[Back to top ⇧](#Pasta&Vino)
+
 ***
 
 
