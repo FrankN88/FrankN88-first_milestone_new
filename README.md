@@ -200,20 +200,36 @@ Each page of the website features a consistent responsive navigational system:
 
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the pages.
+The guiding approach in developing the website was the motto "Mobile First". That aims to create better experiences for users by starting the design process from the smallest of screens: mobile.
 
-to be developed!!!!
+**Navbar issue** - An initial issue was to position the navar links aligned with the logo. That has been resolved with a few trials on where to positiion the div.
 
-**Navbar Bug**
+**Social Links Bug** - A bug was found when testing the social media links. It would not redirect to the right page giving an error message. It has been resolved with iserting a more complete URL.
 
-**Social Links Issue**
+**Gallery Bug** - A great amount of time has been dedicated to find the best suited style for a gallery that could be at the same time responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions the best approach in this very case was a gallery made with CSS Media Queries.
 
-**Gallery Bug**
+**Iframe Bug** - Am iframe related bug was found when reducing the screen size. Google Maps Iframe would not be responsive in smaller devices and overflow the screen size. It has been resolved with using the Bootstrap classes as in the Youtube iframe.
 
-**Responsiveness on smaller device Bug**
+**HTML Validators related Bugs**
+- one too many closing tag for the icon in all of footers.
+- empty h5 tags in all of the html pages.
+- Unnedeed spacing in the phone number in the footers.
+- "Frameborder" attribute in the iframe deemed obsolete.
+- Several errors all related to a wrong filing of the form labels and attributes.
 
-**Form Bug**
+**CSS Validators related Bugs**
+- Width value not recognized
+- Wrong value for padding
+- Wrong position value
+- Wrong value for the ease-in-out effect
 
 
+### Known Bugs
+
+-   In the Galaxy Fold configuration, in the footer, the social network icons tend slightly to the right instead of being perfectly center aligned.
+- The two Images of the chef have a slightly different height that could not be resolved in a way that was effective and and the same time 100% responsive.
+
+- For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
 
 ## Technologies Used
 
