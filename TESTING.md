@@ -113,38 +113,16 @@ Manual testing was conducted on the following elements of the [Gallery Page](gal
  - All the elements are responsive (header,footer,collage,iframes)
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![Gallery Test](assets/testing_files/gif/gallery_gif.gif)
+   ![Gallery Test](assets/testing_files/gif/gallery_test.gif)
 
-### Menu Page
+### About Us Page
 Manual testing was conducted on the following elements of the [About Us Page](about_us.html):
 
  - All the elements are responsive (header,footer,main images,cards,form)
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![About Us Test]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   ![About Us Test](assets/testing_files/gif/about_us_test.gif)
+   
 
 ## Automated Testing
 
