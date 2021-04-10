@@ -113,7 +113,7 @@ Manual testing was conducted on the following elements of the [Gallery Page](gal
  - All the elements are responsive (header,footer,collage,iframes)
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![Gallery Test]()
+   ![Gallery Test](assets/testing_files/gif/gallery_gif.gif)
 
 ### Menu Page
 Manual testing was conducted on the following elements of the [About Us Page](about_us.html):
