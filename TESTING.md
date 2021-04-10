@@ -77,7 +77,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Clicking on the logo will take you back to the home page or refresh it:
 
-     ![Ckick home page](assets/testing_files/gif/click_logo_homepage.gif)
+     ![Ckick home page](assets/testing_files/gif/click_logo.gif)
 
 
 
