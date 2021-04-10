@@ -89,7 +89,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Hovering over any image in the gallery will trigger `hover` with an ease-in-out effect:
 
-     ![Gallery images](assets/testing_files/gif/gallery.gif)
+     ![Gallery ease-in-out effect](assets/testing_files/gif/gallery_effect_test.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
