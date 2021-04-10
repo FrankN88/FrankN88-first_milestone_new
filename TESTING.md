@@ -91,6 +91,21 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
      ![Gallery images](assets/testing_files/gif/gallery.gif)
 
+### Home Page
+Manual testing was conducted on the following elements of the [Home Page](index.html):
+
+ - All the elements are responsive (header,footer, carousel,cards,reviews)
+ - The Navbar turns into a toggler icon in smaller devices
+
+   ![Homepage Test](assets/testing_files/gif/home_test.gif)
+
+### Menu Page
+Manual testing was conducted on the following elements of the [Home Page](index.html):
+
+ - All the elements are responsive (header,footer,cards,notices at the end)
+ - The Navbar turns into a toggler icon in smaller devices
+
+
 
 
 
