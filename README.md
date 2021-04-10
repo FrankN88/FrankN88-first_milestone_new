@@ -126,24 +126,77 @@ Several style changes were made in the final project compared to the inital wire
   - It also has a modern but classic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
 
 ## Features
-
--   Responsive on all device sizes
-
--   Interactive elements
-
+### Design Features
 Each page of the website features a consistent responsive navigational system:
+- A responsive top **Banner** positioned at the very beginning of the page entirely for aesthetic reasons.
 - The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
-- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation links.
-- The **Footer** and the elements inside it (Social links and contacts) act responsively on smaller screens and it look as normal on bigger screens.
-- In the Footer there is a mailto action above the email.
-- Carousel - A carousel showing immediately the main features of the place on the Home page.
-- Google Maps Embed - iframe embedding of Google maps (on the gallery page), showing the location of the restaurant. The map is responsive in smaller devices.
-- Youtube video - iframe embedding a Youtube video showing a chef plating up (on the gallery page).
+  - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
+- On larger screens, the **Footer** contains the appropriate **social media icons**, linking users to the main social pages of the restaurant.
+  - In the Footer there is a mailto action above the email.
+- <li><strong>Let us spoil you/Top Menu</strong> - Those <strong>call to action</strong> buttons are present at least once in every page (except for the menu, which is the page they redirect to) so that the users are prone to clicking, therefore visualising the menu.
+  </li>
+
+<dl>
+  <dt><a href="index.html" target="_blank" alt="Pasta & Vino Home Page">Home Page</a></dt>
+  <dd>The Home Page consists of the following elements:
+     <ul>
+          <li><strong>Hero Image/carousel</strong> - Occupying 100% of the page width, from the left side to the right one, while viewing on all devices. The imagery used was specifically chosen as it created a impactful first impression of the place with inspiring images, preparing the user to then rest of the page and the following pages.
+          </li>
+          <li><strong>Card list</strong> - Occupying 80% of the width, from left to right, while viewing on a desktop. On mobile and tablet devices, the card list responsively positions vertically, underneath the <strong>Carousel</strong>. The purpose of the card list is to provide an area in the center to highlight the three main features of the restaurant. This style was chosen in order to draw the users attention to the information straight away. In this, there is a <strong>call to action</strong> button linking to the external page where users are invited to check out the impressive wine/spirits list, on of the main features of the place.
+          </li>
+          <li><strong>Feedback</strong> - Those positive <strong>reviews</strong> are positioned just below the card list to increase trust in the user.
+          </li>
+     </ul>
+  </dd>
+
+  <dt><a href="menu.html" target="_blank" alt="Menu Page">Menu Page</a></dt>
+  <dd>The Menu page consists of the following elements:
+     <ul>
+          <li><strong>Card list</strong> - Occupying about 80% of the page, this comprehensive card list shows the main and most popular dishes of the restaurant. It starts with appetizers to end with desserts.
+          Once again in the wine part it is present a <strong>call to action</strong> button that redirects the user to an external pdf page with the wine/spirits menu.
+          </li>
+          <li><strong>Notices</strong> - At the end of the page there are some notices that indicate information about the place.
+          </li>
+     </ul>
+  </dd>
+
+  <dt><a href="gallery.html" target="_blank" alt="Menu Page">Gallery Page</a></dt>
+  <dd>The Gallery page consists of the following elements:
+     <ul>
+          <li><strong>Collage</strong> - Occupying about 50% of the page, this impressive and resposive gallery has the goal of showing the place in a way that catches the user's attention. The images have an ease-in-out effect in order to be more interesting and fun. Furthermore, every time the user hovers the images it appears the name of the place in a way that is not invasive but effective.
+          </li>
+          <li><strong>Google Maps</strong> - iframe embedding of Google maps, showing the location of the restaurant. The map is responsive in smaller devices.
+          </li>
+          <li><strong>Youtube Video</strong> - iframe embedding a Youtube video showing a chef plating up. Once again, an element meant for catching the user's attention and increase curiosity.
+          </li>
+     </ul>
+  </dd>
+
+  <dt><a href="about_us.html" target="_blank" alt="About us Page">About Us</a></dt>
+  <dd>The About Us page consists of the following elements:
+     <ul>
+          <li><strong>Main Image</strong> - Catchy image thought to catch the attention of the user on a feature of the restaurant (homemade pasta) and convey it to the following element.
+          </li>
+          <li><strong>Our Driving Force</strong> - Two card next to each other with a description of the two main protagonist of the restaurant.
+          This part is thought for the users who want to know more about the two people who represent the strong points of the place and its success.
+          </li>
+          <li><strong>Secon Main Image</strong> - Catchy image thought to catch the attention of the user on a feature of the restaurant (main dining area) and as a sort of separation for the following element.
+          </li>
+          <li><strong>Form</strong> - A standard form for the users who want to subscribe.
+          </li>
+     </ul>
+  </dd>
+
+  </dl>
 
 ### Features to Implement in the future
-- **Merchandise Shop**
 
-to be completed!!!!!!!
+- **Merchandise Shop**
+     - **Feature** - set up an shop where clients can buy wines or book tables directly via the website.
+     - **Reason for not featuring in this release** - Not possible with only CSS and HTML.
+
+     - **Feature** - Operational form.
+     - **Reason for not featuring in this release** - Not possible with only CSS and HTML.
 
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the pages.
