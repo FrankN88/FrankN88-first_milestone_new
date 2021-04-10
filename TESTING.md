@@ -79,6 +79,10 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
      ![Ckick home page](assets/testing_files/gif/click_logo.gif)
 
+- Hovering over "LET US SPOIL YOU" in the pages will trigger `hover` effect and clicking on them will redirect you to the menu page:
+
+     ![LET US SPOIL YOU link](assets/testing_files/gif/link_to_menu.gif)
+
 
 
 
