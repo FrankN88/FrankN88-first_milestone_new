@@ -2,7 +2,7 @@
 
 ![Pasta&Vino Mockup Images](assets/testing_files/readmehero.png)
 
-[View the live project here](https://8000-gray-capybara-0uwz61wk.ws-eu03.gitpod.io/)
+[View the live project here](https://frankn88.github.io/MS1_Pasta-Wine/)
 
 ## Introduction
 
