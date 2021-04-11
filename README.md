@@ -18,6 +18,8 @@ This is the first of four Milestone Projects that the developer must complete du
 
 The main requirements were to make a responsive and static website with a minimum of three pages using primarily **HTML5** and **CSS3**.
 
+add owners goals
+
 ## User Experience (UX)
 
 -   ### User stories
