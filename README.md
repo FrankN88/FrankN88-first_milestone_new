@@ -108,11 +108,11 @@ Several style changes were made in the final project compared to the inital wire
  
  3. Gallery
 
-  ![Menu Page Wireframe](assets/testing_files/ux_stories_screenshots/gallery_frame.png "Gallery Wireframe")
+  ![Gallery Page Wireframe](assets/testing_files/ux_stories_screenshots/gallery_frame.png "Gallery Wireframe")
 
  4. About us
 
-  ![Menu Page Wireframe](assets/testing_files/ux_stories_screenshots/about_us_frame.png "About us Wireframe")
+  ![Anout Us Page Wireframe](assets/testing_files/ux_stories_screenshots/about_us_frame.png "About Us Wireframe")
 
 ### Design
 
@@ -133,11 +133,11 @@ Several style changes were made in the final project compared to the inital wire
 Each page of the website features a consistent responsive navigational system:
 - A responsive top **Banner** positioned at the very beginning of the page entirely for aesthetic reasons.
 - The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
-  - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
+- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
 - On larger screens, the **Footer** contains the appropriate **social media icons**, linking users to the main social pages of the restaurant.
-  - In the Footer there is a mailto action above the email.
+- In the Footer there is a mailto action above the email.
 - <li><strong>Let us spoil you/Top Menu</strong> - Those <strong>call to action</strong> buttons are present at least once in every page (except for the menu, which is the page they redirect to) so that the users are prone to clicking, therefore visualising the menu.
-  </li>
+</li>
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Pasta & Vino Home Page">Home Page</a></dt>
@@ -195,7 +195,7 @@ Each page of the website features a consistent responsive navigational system:
 ### Features to Implement in the future
 
 - **Merchandise Shop**
-     - **Feature** - set up an shop where clients can buy wines or book tables directly via the website.
+     - **Feature** - set up a shop where clients can buy wines or book tables directly via the website.
      - **Reason for not featuring in this release** - Not possible with only CSS and HTML.
 
      - **Feature** - Operational form.
@@ -205,11 +205,11 @@ Each page of the website features a consistent responsive navigational system:
 The developer ran into a number of issues during the development of the pages.
 The guiding approach in developing the website was the motto "Mobile First". That aims to create better experiences for users by starting the design process from the smallest of screens: mobile.
 
-**Navbar issue** - An initial issue was to position the navar links aligned with the logo. That has been resolved with a few trials on where to positiion the div.
+**Navbar issue** - An initial issue was to position the navar links aligned with the logo. That has been resolved with a few trials on where to position the right div.
 
 **Social Links Bug** - A bug was found when testing the social media links. It would not redirect to the right page giving an error message. It has been resolved with iserting a more complete URL.
 
-**Gallery Bug** - A great amount of time has been dedicated to find the best suited style for a gallery that could be at the same time responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions the best approach in this very case was a gallery made with CSS Media Queries.
+**Gallery Issue** - A great amount of time has been dedicated to find the best suited style for a gallery that could be at the same time responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions the best approach in this very case was a gallery made with CSS Media Queries.
 
 **Iframe Bug** - Am iframe related bug was found when reducing the screen size. Google Maps Iframe would not be responsive in smaller devices and overflow the screen size. It has been resolved with using the Bootstrap classes as in the Youtube iframe.
 
