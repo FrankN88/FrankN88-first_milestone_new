@@ -28,7 +28,6 @@
     background-color: white;
 }
 
-
 /*----Navbar Links----*/
 
 .nav-link {
@@ -165,9 +164,7 @@ flex-direction: column;
     text-decoration: none;
 }
 
-
 /*----Footer btn----*/
-
 
 .top-nav-button a {
     margin-top: 3rem;
@@ -265,7 +262,6 @@ flex-direction: column;
 
 /*----About us page end----*/
 
-
 /*----Menu page beginning----*/
 
 .menu-features {
@@ -296,7 +292,6 @@ flex-direction: column;
 }
 
 /*----Menu page page ends----*/
-
 
 /*----Gallery page beginning----*/
 
@@ -374,8 +369,6 @@ h5 {
         font-size: 15px;
     }
 }
-
-
 
 #masterpiece {
     margin-top: 30px;
