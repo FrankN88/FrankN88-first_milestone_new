@@ -162,6 +162,10 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 - Click [here](assets/testing_files/lighthouse_reports/lighthouse_report.png)
 - All images have been compressed before being loaded.
 
+### Wave Web Accessibility Auditing
+- Click [here](assets/testing_files/wave_reports)
+- Wave validation audit of each page.
+
 ## User testing 
 Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
 
