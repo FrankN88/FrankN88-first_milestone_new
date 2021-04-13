@@ -7,10 +7,12 @@
 ## Table of contents
 1. [Introduction](#Introduction)
 2. [UX](#UX)
-    1. [Ideal User Demographic](#Ideal-User-Demographic)
-    2. [User Stories](#User-Stories)
-    3. [Development Planes](#Development-Planes)
-    4. [Design](#Design)
+    1. [UX - User Stories](#User-Stories)
+    2. [Strategy](#Strategy)
+    3. [Scope](#Scope)
+    3. [Structure](#Structure)
+    4. [Skeleton](#Skeleton)
+    5. [Surface](#Surface)
 3. [Features](#Features)
     1. [Design Features](#Design-Features) 
     2. [Existing Features](#Existing-Features)
@@ -157,7 +159,7 @@ Several style changes were made in the final project compared to the inital wire
 
   ![Anout Us Page Wireframe](assets/testing_files/ux_stories_screenshots/about_us_frame.png "About Us Wireframe")
 
-### Design
+### Surface
 
 #### Colour Scheme
   - The main colours used throughout the website are a mixture of dark purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), black fonts.
@@ -352,14 +354,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-### Code
-
-The developer consulted multiple sites in order to better understand the code that was trying to implement. The following sites were used on a more regular basis:
-- [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
-- [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
-- [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
-- [MDN Web Docs](https://developer.mozilla.org/en-US/ "Link to MDN Web Docs")
-
 ### Content
 
 -   All content was written by the developer (except for the Bootstrap features).
@@ -370,6 +364,14 @@ The developer consulted multiple sites in order to better understand the code th
 - Some Images come from my personal archives
 
 - All the other Images were downloaded from [Unsplash](https://unsplash.com/ "Link to Unsplash page").
+
+### Code
+
+The developer consulted multiple sites in order to better understand the code that was trying to implement. The following sites were used on a more regular basis:
+- [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
+- [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
+- [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
+- [MDN Web Docs](https://developer.mozilla.org/en-US/ "Link to MDN Web Docs")
 
 ### Acknowledgements
 
