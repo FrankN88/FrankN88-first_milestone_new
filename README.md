@@ -243,11 +243,11 @@ Each page of the website features a consistent responsive navigational system:
 ### Features to Implement in the future
 
 - **Merchandise Shop**
-     - **Feature** - set up a shop where clients can buy wines or book tables directly via the website.
-     - **Reason for not featuring in this release** - Not possible with only CSS and HTML.
+     - Feature - Set up a shop where clients can buy wines or book tables directly via the website.
+     - Reason for not featuring in this release - Not possible with only CSS and HTML.
 
-     - **Feature** - Operational form.
-     - **Reason for not featuring in this release** - Not possible with only CSS and HTML.
+     - Feature - Operational form.
+     - Reason for not featuring in this release - Not possible with only CSS and HTML.
 
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the pages.
