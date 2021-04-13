@@ -276,7 +276,7 @@ The guiding approach in developing the website was the motto "Mobile First". Tha
 1. [Favicon:](https://favicon.io/)
     - Favicon was used to create the icon.
 1. [Figma:](https://www.figma.com/login)
-    - Figma was used to create the [wireframes](https://github.com/) during the design process.
+    - Figma was used to create the [wireframes](assets/testing_files/figma_wireframe/wireframe_figma-compressed.pdf) during the design process.
 1. [Unsplash:](https://unsplash.com/)
     - Unsplash was used to download pictures based on the specific features of each page, intended orientation of the images in the pages and best match with bootstrap elements.
 1. [Canva:](https://www.canva.com/design/)
