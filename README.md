@@ -10,7 +10,7 @@
     1. [UX - User Stories](#User-Stories)
       - [First Time Visitor Goals](#First-Time-Visitor-Goals)
       - [Returning Visitor Goals](#Returning-Visitor-Goals)
-      - [Frequent User Goals](#Frequent-Visitor-Goals)
+      - [Frequent User Goals](#Frequent-User-Goals)
       - [Site Owner Goals](#Site-Owner-Goals)
     2. [Strategy](#Strategy)
     3. [Scope](#Scope)
