@@ -4,6 +4,8 @@
 
 [View the live project here](https://frankn88.github.io/MS1_Pasta-Wine/)
 
+[View the testing information here ](TESTING.md)
+
 ## Table of contents
 1. [Introduction](#Introduction)
 2. [UX](#UX)
