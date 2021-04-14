@@ -4,7 +4,7 @@
 
 [View the live project here](https://frankn88.github.io/MS1_Pasta-Wine/)
 
-[View the testing information here ](TESTING.md)
+[View the testing information here - (TESTING.md) ](TESTING.md)
 
 ## Table of contents
 1. [Introduction](#Introduction)
@@ -24,9 +24,8 @@
     2. [Features to Implement in the future](#Features-to-Implement-in-the-future)
 4. [Issues and Bugs](#Issues-and-Bugs)
 5. [Technologies Used](#Technologies-Used)
-     1. [Main Languages Used](#Main-Languages-Used)
-     2. [Additional Languages Used](#Additional-Languages-Used)
-     3. [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+     1. [Languages Used](#Languages-Used)
+     2. [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
 6. [Testing](#Testing)
      1. [Testing.md](TESTING.md)
 7. [Deployment](#Deployment)
