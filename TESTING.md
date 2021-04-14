@@ -14,14 +14,14 @@
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath there is a Carousel that immediately shows the main features of the place and on top of it a link with a catchy phrase that directs to the menu. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
         2. The main points are made immediately with carousel images. Click [here](assets/testing_files/testing_ux_goals/carousel.png)
-        3. The user has several options, click the link that redirects to the menu, one of the links in the navbar or scroll down, where he will see the main features of the place together with a link to an impressive wine list. Click [here]()
+        3. The user has several options, click the link that redirects to the menu, one of the links in the navbar or scroll down, where he will see the main features of the place together with a link to an impressive wine list. Click [here](assets/testing_files/testing_ux_goals/cards_wine_list.png)
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly and change colour when hovering the link. Click [here]()
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly and change colour when hovering the link. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
         2. At the bottom of the each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device.
-        3. The navigation bar is clearly defined and easily navigable for users to find and use. Click [here]()
-        4. The logo image on the top left of each page leads users back to the home page. Click [here]()
+        3. The navigation bar is clearly defined and easily navigable for users to find and use. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
+        4. The logo image on the top left of each page leads users back to the home page. Click [here](assets/testing_files/gif/click_logo.gif)
         5. The footer menu is easy to use with appropriate icons for easy identification. Click [here]()
 
     3. As a first time visitor, I want to easily navigate to the restaurant's social links in order to keep up with the latest news and features.
