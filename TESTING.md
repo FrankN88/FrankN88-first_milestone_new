@@ -46,7 +46,7 @@
     3. As a Returning Visitor, I want to find the social links so that I can join and interact with others in the community.
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](assets/testing_files/gif/hover&click_social_footer.gif)
         2. An interested returning custumer has the chance to immediately click on any link in the footer to be directed to the social networks of the restaurant as much as the Youtube channel. Click [here](assets/testing_files/gif/hover&click_social_footer.gif)
-        3. A little gallery will show parts of the place to a customer who wants to show the restaurant to a friend. The menu page has been thought for the same reason other than showing the main dishes of the moment. Click [here](assets/testing_files/gif/gallery_test.gif)
+        3. A little gallery will show parts of the place to a customer who wants to show the restaurant to a friend. The menu page has been thought for the same reason other than showing the main dishes of the moment. Click [here](assets/testing_files/testing_ux_goals/gallery_screenshot.png)
 
 -   #### Frequent User Goals
 
