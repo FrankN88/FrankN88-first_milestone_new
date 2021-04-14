@@ -41,13 +41,13 @@
 
 ## Introduction
 
-This comprehensive website has been designed for the restaurant/wine bar "Pasta & Vino". 
+This comprehensive website has been designed for the restaurant/ wine bar "Pasta & Vino". 
 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-The focus of the site is to create an online presence allowing wine lovers and clients in general, to find out relevant information about the place,its main features, wide range of wines and location. 
+The purpose of the site is to create an online presence allowing wine lovers and clients in general, to find out relevant information about the place, its main features, wide range of wines and location. 
 
-"Pasta & Vino" is a restaurant/wine bar whose strenght is in its great choice of wines and carefully selected combinations of pastas and chacuteries.
+"Pasta & Vino" is a restaurant/ wine bar and its strength is its great choice of wines and carefully selected combinations of pastas and chacuteries.
 
 This is the first of four Milestone Projects that the developer must complete during their Full Stack Web Development Program at The Code Institute. 
 
@@ -60,24 +60,24 @@ The main requirements were to make a responsive and static website with a minimu
     -   #### First Time Visitor Goals
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the restaurant and its main features.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and products.
-        3. As a First Time Visitor, I want to look for feedbacks and menu to understand what their users think of them. I also want to locate their social media links to see their followings on social media to determine how reliable and popular they are.
+        3. As a First Time Visitor, I want to find feedback and the menu to understand what their users think of them. I also want to locate their social media links to see their followings on social media in order to determine how reliable and popular they are.
 
     -   #### Returning Visitor Goals
-        1. As a Returning Visitor, I want to find information new imported products and changes in the menu.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the restaurant with any questions I may have or simply to secure a seat.
+        1. As a Returning Visitor, I want to find information about new imported products and changes to the menu.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the restaurant with any questions I may have or simply to secure a table.
         3. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added features regarding the kitchen.
-        2. As a Frequent User, I want to check to see if there are any updates in the wines and spirits list.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or discounts or special events.
+        2. As a Frequent User, I want to check to see if there are any updates to the wines and spirits list.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or discounts or notified about special events.
 
     -   #### Site Owner Goals
         1. Increasing the overall restaurant reputation and awareness.
         2. Give an immediate overview of the place, its main features, products and other important information.
-        3. Increase percentage of in stores sales made with new imported products and in the future also on line sales.
-        4. Gaining a better understanding of the audience by checking their feedbacks both via the website and social networks.
-        5. Consequently increase social mentions and blog with regularity in order to keep the attention high.
+        3. Increase percentage of in-store sales made with new imported products and, in the future, also online sales.
+        4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
+        5. Consequently, increase social mentions and post with regularity in order to keep attention high.
         6. Allow potential customers to fill out a contact form, sign up for the email list, visit the physical location, or simply give the restaurant a phone call.
         7. Make the website as accessible as possible.
         8. Use reviews to increase customer satisfaction.
@@ -95,8 +95,7 @@ Broken into three categories, the website will focus on the following target aud
    - Any age for the restaurant food menu
    - Whoever is in search of a wine experience
 
-The website needs to enable the **User** to:
-- Retrieve desired information:
+The website needs to enable the **User** to retrieve desired information, including:
 - Menu information
 - New imported products
 - Upcoming tasting events
@@ -111,15 +110,15 @@ The website needs to enable the **Restaurant** to:
   - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
 
 #### Scope
-A scope was defined in order to identify what features have to be included based on the strategy previously defined. This was broken into two categories:
+In order to identify what features had to be included, the scope was deifined based on the previously defined strategy. This was broken into two categories:
 
 - **Content Requirements**
  - The user will be looking for:
- - General information
- - New products
- - Feedbacks
- - Contact details
- - Social Links
+  - General information
+  - New products
+  - Feedback
+  - Contact details
+  - Social links
 
 - **Functionality Requirements**
  - The user will be able to:
@@ -127,8 +126,8 @@ A scope was defined in order to identify what features have to be included based
  - Be able to find links to external sites in order to:
    - Verify the status of the place
    - Find directions
-   - Have always under control news and specials
-   - Contact the restaurant directly through the contacts
+   - Be constantly updated about news and specials
+   - Contact the restaurant directly through the Contacts
 
 #### Structure
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.
@@ -137,10 +136,9 @@ The information architecture was organized in a fluid and clear way in order to 
 
 #### Skeleton 
 Wireframe mockups were created in a [Figma Workspace](assets/testing_files/figma_wireframe/wireframe_figma-compressed.pdf).
-The pdf file generated by Figma was too big to be loaded onto GitHub. I have compressed the file with Adobe Acrobat - Compress PDF.
-and put it into a separate folder available for download or visualization in GitHub Desktop.
+The PDF file generated by Figma was too big to be loaded onto GitHub. I have compressed the file with Adobe Acrobat - Compress PDF and put it into a separate folder available for download or visualization in GitHub Desktop.
 
-Several style changes were made in the final project compared to the inital wireframe on Figma. Those changes were mainly related to the choice of different pictures to better suit the new layout and Bootstrap features (e.g. Carousel,cards etc), colours, font size, positioning in the page; all aimed to provide the best user experience and responsiveness.
+Several style changes were made in the final project compared to the inital wireframe on Figma. Those changes were mainly related to the choice of different pictures to better suit the new layout and Bootstrap features (e.g. Carousel, cards etc.), colours, font size, positioning on the page; all aimed at providing the best user experience and responsiveness.
 
 **Pages:**
  1. Home Page:
@@ -162,38 +160,37 @@ Several style changes were made in the final project compared to the inital wire
 ### Surface
 
 #### Colour Scheme
-  - The main colours used throughout the website are a mixture of dark purple (to represent the colour of wine), White (as a clear and non-invasive contrast colour to the previous one), black fonts.
+  - The main colours used throughout the website are a mixture of dark purple (to represent the colour of wine), white (as a clear and non-invasive contrast colour to the previous one), and black fonts.
 
 #### Typography
-  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case for any reason the font isn't being imported into the site correctly.
+  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case, for any reason, the font won't be imported into the site correctly.
 
 #### Imagery
-  -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. 
-  The carousel right at the homepage is an immediate example of an element that catches the attention of the user with the most important features of the place.
+  -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important features about the winebar.
 
-  - It also has a modern but classic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
+  - It also has a modern but classic aesthetic. The imagery has been thought about carefully to draw the attention of the user straight to the main features of the restaurant.
 
 ## Features
 
 ### Design Features
 Each page of the website features a consistent responsive navigational system:
-- A responsive top **Banner** positioned at the very beginning of the page entirely for aesthetic reasons.
-- The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
-- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social links.
-- On larger screens, the **Footer** contains the appropriate **social media icons**, linking users to the main social pages of the restaurant.
-- In the Footer there is a mailto action above the email.
-- <li><strong>Let us spoil you/Top Menu</strong> - Those <strong>call to action</strong> buttons are present at least once in every page (except for the menu, which is the page they redirect to) so that the users are prone to clicking, therefore visualising the menu.
+- A responsive top **Banner** is positioned at the very beginning of the page entirely for aesthetic reasons.
+- The **Header** contains a conventionally placed **logo** at the top left of the page (clicking this will redirect users back to the home page) and **navigation bar** at the top right of the page.
+- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social media links.
+- On larger screens, the **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the restaurant.
+- In the footer, there is a mailto action above the email.
+- <li><strong>Let us spoil you/Top Menu</strong> - Those <strong>call to action</strong> buttons are present at least once on every page (except for the Menu page, which is the page it redirects to) so that the users are prone to clicking, therefore visualising the menu.
 </li>
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Pasta & Vino Home Page">Home Page</a></dt>
   <dd>The Home Page consists of the following elements:
      <ul>
-          <li><strong>Hero Image/carousel</strong> - Occupying 100% of the page width, from the left side to the right one, while viewing on all devices. The imagery used was specifically chosen as it created a impactful first impression of the place with inspiring images, preparing the user to then rest of the page and the following pages.
+          <li><strong>Hero Image/carousel</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. The imagery used was specifically chosen as it created an impactful first impression of the winebar/ restaurant with inspiring images, establishing user expectations for what comes next.
           </li>
-          <li><strong>Card list</strong> - Occupying 80% of the width, from left to right, while viewing on a desktop. On mobile and tablet devices, the card list responsively positions vertically, underneath the <strong>Carousel</strong>. The purpose of the card list is to provide an area in the center to highlight the three main features of the restaurant. This style was chosen in order to draw the users attention to the information straight away. In this, there is a <strong>call to action</strong> button linking to the external page where users are invited to check out the impressive wine/spirits list, on of the main features of the place.
+          <li><strong>Card list</strong> - Occupies 80% of the page width, from left to right, while being viewed on a desktop. On mobile and tablet devices, the card list responsively positions vertically, underneath the <strong>Carousel</strong>. The purpose of the card list is to provide an area in the center to highlight the three main features of the restaurant. This style was chosen in order to draw the users' attention to the information straight away. In this, there is a <strong>call to action</strong> button which links to the external page where users are invited to check out the impressive wine/spirits list, one of the main features of the winebar/ restaurant.
           </li>
-          <li><strong>Feedback</strong> - Those positive <strong>reviews</strong> are positioned just below the card list to increase trust in the user.
+          <li><strong>Feedback</strong> - Positive <strong>reviews</strong> are positioned just below the card list to increase trust in the user.
           </li>
      </ul>
   </dd>
@@ -201,10 +198,10 @@ Each page of the website features a consistent responsive navigational system:
   <dt><a href="menu.html" target="_blank" alt="Menu Page">Menu Page</a></dt>
   <dd>The Menu page consists of the following elements:
      <ul>
-          <li><strong>Card list</strong> - Occupying about 80% of the page, this comprehensive card list shows the main and most popular dishes of the restaurant. It starts with appetizers to end with desserts.
-          Once again in the wine part it is present a <strong>call to action</strong> button that redirects the user to an external pdf page with the wine/spirits menu.
+          <li><strong>Card list</strong> - Occupying about 80% of the page, this comprehensive card list shows the main and most popular dishes of the restaurant. It starts with appetizers and ends with desserts.
+          Once again, in the wine section of the page a <strong>call to action</strong> button is present, which redirects the user to an external PDF page with the wine/spirits menu.
           </li>
-          <li><strong>Notices</strong> - At the end of the page there are some notices that indicate information about the place.
+          <li><strong>Notices</strong> - At the end of the page there is a list of important information about rules and regulations about the locale.
           </li>
      </ul>
   </dd>
@@ -212,11 +209,11 @@ Each page of the website features a consistent responsive navigational system:
   <dt><a href="gallery.html" target="_blank" alt="Menu Page">Gallery Page</a></dt>
   <dd>The Gallery page consists of the following elements:
      <ul>
-          <li><strong>Collage</strong> - Occupying about 50% of the page, this impressive and resposive gallery has the goal of showing the place in a way that catches the user's attention. The images have an ease-in-out effect in order to be more interesting and fun. Furthermore, every time the user hovers the images it appears the name of the place in a way that is not invasive but effective.
+          <li><strong>Collage</strong> - Occupying about 50% of the page, this impressive and resposive gallery has the goal of showing the place in a way that catches the user's attention. The images have an ease-in-out effect in order to be more interesting and fun. Furthermore, every time the user hovers over the images, the name of the restaurant appears in a way that is not invasive but effective.
           </li>
-          <li><strong>Google Maps</strong> - iframe embedding of Google maps, showing the location of the restaurant. The map is responsive in smaller devices.
+          <li><strong>Google Maps</strong> - iframe embedding of Google maps shows the location of the restaurant. The map is responsive in smaller devices.
           </li>
-          <li><strong>Youtube Video</strong> - iframe embedding a Youtube video showing a chef plating up. Once again, an element meant for catching the user's attention and increase curiosity.
+          <li><strong>Youtube Video</strong> - iframe embedding of a Youtube video showing a chef plating up. Once again, an element intended to catch the user's attention and increase curiosity.
           </li>
      </ul>
   </dd>
@@ -224,12 +221,11 @@ Each page of the website features a consistent responsive navigational system:
   <dt><a href="about_us.html" target="_blank" alt="About us Page">About Us</a></dt>
   <dd>The About Us page consists of the following elements:
      <ul>
-          <li><strong>Main Image</strong> - Catchy image thought to catch the attention of the user on a feature of the restaurant (homemade pasta) and convey it to the following element.
+          <li><strong>Main Image</strong> - A catchy image designed to capture the attention of the user about a feature of the restaurant (homemade pasta) and to draw the eye to the following element.
           </li>
-          <li><strong>Our Driving Force</strong> - Two card next to each other with a description of the two main protagonist of the restaurant.
-          This part is thought for the users who want to know more about the two people who represent the strong points of the place and its success.
+          <li><strong>Our Driving Force</strong> - Two cards positioned next to each other with a description of the two main protagonists of the restaurant. This part is for the users who want to know more about the two people who represent the strong points of the restaurant and its success.
           </li>
-          <li><strong>Secon Main Image</strong> - Catchy image thought to catch the attention of the user on a feature of the restaurant (main dining area) and as a sort of separation for the following element.
+          <li><strong>Second Main Image</strong> - Catchy image designed to capture the attention of the user about a feature of the restaurant (main dining area) and as a sort of separation from the following element.
           </li>
           <li><strong>Form</strong> - A standard form for the users who want to subscribe.
           </li>
@@ -241,42 +237,42 @@ Each page of the website features a consistent responsive navigational system:
 ### Features to Implement in the future
 
 - **Merchandise Shop**
-     - Feature - Set up a shop where clients can buy wines or book tables directly via the website.
-     - Reason for not featuring in this release - Not possible with only CSS and HTML.
 
+     - Feature - A shop where clients can buy wines or book tables directly via the website.
+     - Reason for not featuring in this release - Not possible with only CSS and HTML.
      - Feature - Operational form.
      - Reason for not featuring in this release - Not possible with only CSS and HTML.
 
 ## Issues and Bugs 
 
 The developer ran into a number of issues during the development of the pages.
-The guiding approach in developing the website was the motto "Mobile First". That aims to create better experiences for users by starting the design process from the smallest of screens: mobile.
+The guiding approach in developing the website was the motto: "Mobile First". This aims to create better experiences for users by starting the design process from the smallest of screens: a mobile.
 
-**Navbar issue** - An initial issue was to position the navar links aligned with the logo. That has been resolved with a few trials on where to position the right div.
+**Navbar issue** - An initial issue was to position the navbar links aligned to the logo. This was resolved with a few trials on where to position the right div.
 
-**Social Links Bug** - A bug was found when testing the social media links. It would not redirect to the right page giving an error message. It has been resolved with iserting a more complete URL.
+**Social Links Bug** - A bug was found when testing the social media links. It would not redirect to the right page, giving an error message. It has been resolved by inserting a more complete URL.
 
-**Gallery Issue** - A great amount of time has been dedicated to find the best suited style for a gallery that could be at the same time responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions the best approach in this very case was a gallery made with CSS Media Queries.
+**Gallery Issue** - A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions, the best approach was that of a gallery made with CSS Media Queries.
 
-**Iframe Bug** - Am iframe related bug was found when reducing the screen size. Google Maps Iframe would not be responsive in smaller devices and overflow the screen size. It has been resolved with using the Bootstrap classes as in the Youtube iframe.
+**Iframe Bug** - An iframe related bug was found when reducing the screen size. Google Maps iframe was not responsive in smaller devices and overflowed the screen. It was resolved using the Bootstrap classes as with the Youtube iframe.
 
-**HTML Validators related resolved Bugs**
-- one too many closing tag for the icon in all of footers.
-- empty h5 tags in all of the html pages.
-- Unnedeed spacing in the phone number in the footers.
+**HTML Validator-related resolved bugs**
+- One too many closing tags for the icon in all footers.
+- Empty h5 tags in all of the html pages.
+- Unneccesary spacing in the phone number in the footers.
 - "Frameborder" attribute in the iframe deemed obsolete.
 - Several errors all related to a wrong filing of the form labels and attributes.
 
-**CSS Validators related resolved Bugs**
+**CSS Validator-related resolved bugs**
 - Width value not recognized
 - Wrong value for padding
 - Wrong position value
 - Wrong value for the ease-in-out effect
 
-### Known Bugs
+### Known existing bugs
 
--   In the Galaxy Fold configuration, in the footer, the social network icons tend slightly to the right instead of being perfectly center aligned.
-- The two Images of the chef have a slightly different height that could not be resolved in a way that was effective and and the same time 100% responsive.
+-   In the Galaxy Fold configuration in the footer, the social network icons tend slightly to the right instead of being perfectly center aligned.
+- The two Images of the chef have a slightly different height that could not be resolved in a way that was effective and and at the same time 100% responsive.
 
 - For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
 
@@ -332,14 +328,14 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 5. Under "Source" click the drop-down menu labelled "None" and select "Master Branch".
 6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
 7. Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
-8. At the time of submitting this Milestone project the Development Branch and Master Branch are identical.
+8. At the time of submitting this Milestone project, the Development Branch and Master Branch are identical.
 
 ### Forking the Repository
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+By forking the GitHub Repository a copy of the original repository is made on the GitHub account. To view and/or to make  changes without affecting the original repository: 
 
 1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
 2. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-first_milestone_new "Link to GitHub Repo").
-3. At the top of the repository, on the right side of the page, select "Fork"
+3. At the top of the repository, on the right side of the page, select "Fork".
 4. You should now have a copy of the original repository in your GitHub account.
 
 ### Creating a Clone
@@ -347,7 +343,7 @@ How to run this project locally:
 1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/ "Link to Gitpod Browser extension download") Extension for Chrome.
 2. After installation, restart the browser.
 3. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-2. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-first_milestone_new "Link to GitHub Repo").
+4. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-first_milestone_new "Link to GitHub Repo").
 5. Click the green "GitPod" button in the top right corner of the repository.
 This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
 
@@ -358,7 +354,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Content
 
 -   All content was written by the developer (except for the Bootstrap features).
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+-   Psychological properties of text colour in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 - Some Images come from my personal archives
@@ -366,7 +362,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-The developer consulted multiple sites in order to better understand the code that was trying to implement. The following sites were used on a more regular basis:
+The developer consulted multiple sites in order to better understand the code that they were trying to implement. The following sites were used on a more regular basis:
 - [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
@@ -374,9 +370,9 @@ The developer consulted multiple sites in order to better understand the code th
 
 ### Acknowledgements
 
-- My Mentor for continuous helpful feedback.
+- My mentor for continuous helpful feedback.
 - Tutor support at Code Institute for their support.
-- My family for opinions and feedbacks.
+- My family for opinions and feedback.
 
 
 
