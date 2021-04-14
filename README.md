@@ -169,7 +169,7 @@ Several style changes were made in the final project compared to the inital wire
 
 #### Imagery
   -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. 
-      The carousel right at the homepage is an immediate example of an element that catches the attention of the user with the most important features of the place.
+  The carousel right at the homepage is an immediate example of an element that catches the attention of the user with the most important features of the place.
 
   - It also has a modern but classic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
 
@@ -260,14 +260,14 @@ The guiding approach in developing the website was the motto "Mobile First". Tha
 
 **Iframe Bug** - Am iframe related bug was found when reducing the screen size. Google Maps Iframe would not be responsive in smaller devices and overflow the screen size. It has been resolved with using the Bootstrap classes as in the Youtube iframe.
 
-**HTML Validators related Bugs**
+**HTML Validators related resolved Bugs**
 - one too many closing tag for the icon in all of footers.
 - empty h5 tags in all of the html pages.
 - Unnedeed spacing in the phone number in the footers.
 - "Frameborder" attribute in the iframe deemed obsolete.
 - Several errors all related to a wrong filing of the form labels and attributes.
 
-**CSS Validators related Bugs**
+**CSS Validators related resolved Bugs**
 - Width value not recognized
 - Wrong value for padding
 - Wrong position value
