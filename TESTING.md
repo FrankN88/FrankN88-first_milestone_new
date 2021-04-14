@@ -12,8 +12,8 @@
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the Restaurant.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath there is a Carousel that immediately shows the main features of the place and on top of it a link with a catchy phrase that directs to the menu. Click [here]()
-        2. The main points are made immediately with carousel images. Click [here]()
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath there is a Carousel that immediately shows the main features of the place and on top of it a link with a catchy phrase that directs to the menu. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
+        2. The main points are made immediately with carousel images. Click [here](assets/testing_files/testing_ux_goals/carousel.png)
         3. The user has several options, click the link that redirects to the menu, one of the links in the navbar or scroll down, where he will see the main features of the place together with a link to an impressive wine list. Click [here]()
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
