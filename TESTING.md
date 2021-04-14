@@ -60,6 +60,23 @@
         1. At the bottom of every page there is a footer which content is consistent throughout all pages.
         2. In the page "About us" the users can insert their personal details to receive the newsletter and special offers/events.
 
+-   #### Site Owner Goals, Testing
+
+     1. Increasing the overall restaurant reputation and awareness.
+        1.  t be finished
+   
+
+# User testing 
+Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
+
+It was through this testing that the following changes were made:
+- Removing thumbnail from most pictures.
+- Centering social media links in the footer instead of floating them to the right.
+- Assessing the combinations of colours and the contrast.
+- Fonts choice looking smart and not invasive.
+- Improving the overall images quality compared to the initial framework idea.
+- Overall balance in the positioning and sizing of images in the pages. 
+
 ## Manual Testing
 
 ### Common Elements Testing
@@ -165,17 +182,6 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 ### Wave Web Accessibility Auditing
 - Click [here](assets/testing_files/wave_reports)
 - Wave validation audit of each page.
-
-## User testing 
-Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
-
-It was through this testing that the following changes were made:
-- Removing thumbnail from most pictures.
-- Centering social media links in the footer instead of floating them to the right.
-- Assessing the combinations of colours and the contrast.
-- Fonts choice looking smart and not invasive.
-- Improving the overall images quality compared to the initial framework idea.
-- Overall balance in the positioning and sizing of images in the pages. 
 
 ***
 
