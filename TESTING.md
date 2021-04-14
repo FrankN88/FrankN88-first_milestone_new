@@ -19,7 +19,7 @@
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly and change colour when hovering the link. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
-        2. At the bottom of the each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device.
+        2. At the bottom of the each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device. Click [here](assets/testing_files/testing_ux_goals/button_up.gif)
         3. The navigation bar is clearly defined and easily navigable for users to find and use. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
         4. The logo image on the top left of each page leads users back to the home page. Click [here](assets/testing_files/gif/click_logo.gif)
         5. The footer menu is easy to use with appropriate icons for easy identification. Click [here](assets/testing_files/testing_ux_goals/footer.png)
