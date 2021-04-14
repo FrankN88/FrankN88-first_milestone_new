@@ -63,7 +63,31 @@
 -   #### Site Owner Goals, Testing
 
      1. Increasing the overall restaurant reputation and awareness.
-        1.  t be finished
+        1.  Through descriptive images and easy access to social networks.
+
+     2. Give an immediate overview of the place, its main features, products and other important information.
+        1. Gallery images, menu cards, embedded video and map provide that abundantly.
+
+     3. Increase percentage of in stores sales made with new imported products and in the future also on line sales.
+        1. The food menu together with the PDF list of wines/spirits provides all the information regarding new products,pricing and variety.
+
+     4. Gaining a better understanding of the audience by checking their feedbacks both via the website and social networks.
+        1. Possible via the reviews from ther social networks connected to the restaurant and the form in the page Avout Us.
+
+     5. Consequently increase social mentions and blog with regularity in order to keep the attention high.
+        1. Possible via regular upadtes of the restaurant features (menu,wine list etc) that connected to the social networks interactions give the owner a trend of its audience.
+
+     6. Allow potential customers to fill out a contact form, sign up for the email list, visit the physical location, or simply give the restaurant a phone call.
+        1. Through the form present on the website (at the moement not active), locatin and contacts given in the footer and embedded map.
+
+     7. Make the website as accessible as possible.
+        1. The simple and instinctive structure of the website allows that together with the clarifying images.
+
+     8. Use reviews to increase customer satisfaction.
+        1. The reviews are part of the improving process; social network interactions allow are the first indicator of popularity. 
+
+
+
    
 
 # User testing 
