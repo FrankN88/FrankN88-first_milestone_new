@@ -58,13 +58,11 @@ The main requirements were to make a responsive and static website with a minimu
 -   ### User stories
 
     -   #### First Time Visitor Goals
-
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the restaurant and its main features.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and products.
         3. As a First Time Visitor, I want to look for feedbacks and menu to understand what their users think of them. I also want to locate their social media links to see their followings on social media to determine how reliable and popular they are.
 
     -   #### Returning Visitor Goals
-
         1. As a Returning Visitor, I want to find information new imported products and changes in the menu.
         2. As a Returning Visitor, I want to find the best way to get in contact with the restaurant with any questions I may have or simply to secure a seat.
         3. As a Returning Visitor, I want to find community links.
@@ -75,7 +73,6 @@ The main requirements were to make a responsive and static website with a minimu
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or discounts or special events.
 
     -   #### Site Owner Goals
-
         1. Increasing the overall restaurant reputation and awareness.
         2. Give an immediate overview of the place, its main features, products and other important information.
         3. Increase percentage of in stores sales made with new imported products and in the future also on line sales.
@@ -89,14 +86,14 @@ The main requirements were to make a responsive and static website with a minimu
 Broken into three categories, the website will focus on the following target audiences:
 
 - **Roles:**
- - Current clients of the restaurant
- - Future clients
- - Wine lovers in town
+   - Current clients of the restaurant
+   - Future clients
+   - Wine lovers in town
 
 - **Demographic:**
- - 18 or above for the wines and spirits
- - Any age for the restaurant food menu
- - Whoever is in search of a wine experience
+   - 18 or above for the wines and spirits
+   - Any age for the restaurant food menu
+   - Whoever is in search of a wine experience
 
 The website needs to enable the **User** to:
 - Retrieve desired information:
@@ -108,11 +105,10 @@ The website needs to enable the **User** to:
 The website needs to enable the **Restaurant** to:
 - Develop an online presence 
 - Provide an easily navigable website for users to find relevant information about:
- - New products
- - New menu and special features connected to the kitchen
- - Provide a channel of communication for enquires (via the form or social media)
- - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
-
+  - New products
+  - New menu and special features connected to the kitchen
+  - Provide a channel of communication for enquires (via the form or social media)
+  - Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site with a click)
 
 #### Scope
 A scope was defined in order to identify what features have to be included based on the strategy previously defined. This was broken into two categories:
@@ -126,13 +122,13 @@ A scope was defined in order to identify what features have to be included based
  - Social Links
 
 - **Functionality Requirements**
-  - The user will be able to:
-    - Easily navigate through the site in order to find the information they want
-    - Be able to find links to external sites in order to:
-        - Verify the status of the place
-        - Find directions
-        - Have always under control news and specials
-        - Contact the restaurant directly through the contacts
+ - The user will be able to:
+   - Easily navigate through the site in order to find the information they want
+ - Be able to find links to external sites in order to:
+   - Verify the status of the place
+   - Find directions
+   - Have always under control news and specials
+   - Contact the restaurant directly through the contacts
 
 #### Structure
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.
@@ -178,6 +174,7 @@ Several style changes were made in the final project compared to the inital wire
   - It also has a modern but classic aesthetic. The imagery it has been thought carefully to draw the attention of the user straight to the points of strenght of the restaurant.
 
 ## Features
+
 ### Design Features
 Each page of the website features a consistent responsive navigational system:
 - A responsive top **Banner** positioned at the very beginning of the page entirely for aesthetic reasons.
@@ -251,6 +248,7 @@ Each page of the website features a consistent responsive navigational system:
      - Reason for not featuring in this release - Not possible with only CSS and HTML.
 
 ## Issues and Bugs 
+
 The developer ran into a number of issues during the development of the pages.
 The guiding approach in developing the website was the motto "Mobile First". That aims to create better experiences for users by starting the design process from the smallest of screens: mobile.
 
@@ -274,7 +272,6 @@ The guiding approach in developing the website was the motto "Mobile First". Tha
 - Wrong value for padding
 - Wrong position value
 - Wrong value for the ease-in-out effect
-
 
 ### Known Bugs
 
@@ -361,12 +358,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Content
 
 -   All content was written by the developer (except for the Bootstrap features).
-
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 - Some Images come from my personal archives
-
 - All the other Images were downloaded from [Unsplash](https://unsplash.com/ "Link to Unsplash page").
 
 ### Code
@@ -380,9 +375,7 @@ The developer consulted multiple sites in order to better understand the code th
 ### Acknowledgements
 
 - My Mentor for continuous helpful feedback.
-
 - Tutor support at Code Institute for their support.
-
 - My family for opinions and feedbacks.
 
 
