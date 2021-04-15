@@ -54,12 +54,12 @@
 
         1. The user would already be comfortable with the website layout and can easily check the menu page. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
 
-    2. As a Frequent User, I want to check to see if there are any news related to the restaurant acitivity.
+    2. As a Frequent User, I want to check to see if there is any news related to the restaurant activity.
 
         1. The user would already be comfortable with the website layout and can easily click the links to the selected pages. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page there is a footer with a cliccable embedded email address. Click [here](assets/testing_files/testing_ux_goals/footer.png)
+        1. At the bottom of every page there is a footer with a clickable embedded email address. Click [here](assets/testing_files/testing_ux_goals/footer.png)
         2. In the page "About us" the users can insert their personal details in a form to receive the newsletter and special offers/events. Click [here](assets/testing_files/testing_ux_goals/form.png)
 
 -   #### Site Owner Goals, Testing
@@ -77,16 +77,16 @@
         1. Possible via the reviews from ther social networks connected to the restaurant and the form in the page "About Us".
 
      5. Consequently, increase social mentions and post with regularity in order to keep attention high.
-        1. Possible via regular upadtes of the restaurant features (menu,wine list etc) that connected to the social networks interactions give the owner a trend of its audience.
+        1. Possible via regular updates of the restaurant features (menu,wine list etc) that connected to the social networks interactions give the owner a trend of its audience.
 
      6. Allow potential customers to fill out a contact form, sign up for the email list, visit the physical location, or simply give the restaurant a phone call.
-        1. Through the form present on the website (at the moement not active), location and contacts given in the footer and embedded map.
+        1. Through the form present on the website (at the moment not active), location and contacts given in the footer and an embedded map.
 
      7. Make the website as accessible as possible.
-        1. The simple and instinctive structure of the website allows that together with the clarifying images.
+        1. The simple and instinctive structure of the website allows that, together with the clarifying images.
 
      8. Use reviews to increase customer satisfaction.
-        1. The reviews are part of the improving process; social network interactions allow are the first indicator of popularity. 
+        1. The reviews are part of the improving process; social network interactions are the first indicator of popularity. 
 
 ## User testing 
 Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
