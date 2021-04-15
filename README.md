@@ -83,7 +83,7 @@ The main requirements were to make a responsive and static website with a minimu
         8. Use reviews to increase customer satisfaction.
 
 #### Strategy
-Broken into three categories, the website will focus on the following target audiences:
+The website will focus on the following target audiences:
 
 - **Roles:**
    - Current clients of the restaurant
@@ -163,7 +163,7 @@ Several style changes were made in the final project compared to the inital wire
   - The main colours used throughout the website are a mixture of dark purple (to represent the colour of wine), white (as a clear and non-invasive contrast colour to the previous one), and black fonts.
 
 #### Typography
-  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case, for any reason, the font won't be imported into the site correctly.
+  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case, for any reason, the font will not be imported into the site correctly.
 
 #### Imagery
   -   Imagery is extremely important in hospitality related websites. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important features about the winebar.
@@ -240,6 +240,7 @@ Each page of the website features a consistent responsive navigational system:
 
      - Feature - A shop where clients can buy wines or book tables directly via the website.
      - Reason for not featuring in this release - Not possible with only CSS and HTML.
+
      - Feature - Operational form.
      - Reason for not featuring in this release - Not possible with only CSS and HTML.
 
@@ -259,7 +260,7 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 **HTML Validator-related resolved bugs**
 - One too many closing tags for the icon in all footers.
 - Empty h5 tags in all of the html pages.
-- Unneccesary spacing in the phone number in the footers.
+- Unnecesary spacing in the phone number in the footers.
 - "Frameborder" attribute in the iframe deemed obsolete.
 - Several errors all related to a wrong filing of the form labels and attributes.
 
@@ -294,7 +295,7 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+    - jQuery came with Bootstrap to make the navbar responsive.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
