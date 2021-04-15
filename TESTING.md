@@ -52,15 +52,15 @@
 
     1. As a Frequent User, I want to check to see if there are any newly added features in the menu, wine list or events.
 
-        1. The user would already be comfortable with the website layout and can easily check the menu page.
+        1. The user would already be comfortable with the website layout and can easily check the menu page. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
 
     2. As a Frequent User, I want to check to see if there are any news related to the restaurant acitivity.
 
-        1. The user would already be comfortable with the website layout and can easily click the links to the selected pages. 
+        1. The user would already be comfortable with the website layout and can easily click the links to the selected pages. Click [here](assets/testing_files/testing_ux_goals/navbar_phrase.png)
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page there is a footer with a cliccable embedded email address.
-        2. In the page "About us" the users can insert their personal details in a form to receive the newsletter and special offers/events.
+        1. At the bottom of every page there is a footer with a cliccable embedded email address. Click [here](assets/testing_files/testing_ux_goals/footer.png)
+        2. In the page "About us" the users can insert their personal details in a form to receive the newsletter and special offers/events. Click [here](assets/testing_files/testing_ux_goals/form.png)
 
 -   #### Site Owner Goals, Testing
 
