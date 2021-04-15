@@ -25,8 +25,8 @@
         5. The footer menu is easy to use with appropriate icons for easy identification. Click [here](assets/testing_files/testing_ux_goals/footer.png)
 
     3. As a first time visitor, I want to easily navigate to the restaurant's social links in order to keep up with the latest news and features.
-        1. The social network links are located in the footer together with the restaurant's contacts. Click [here](assets/testing_files/testing_ux_goals/footer.png)
-        2. Social network links and contacts always adapt responsively in order to be clicked without any difficulty on any device. Click [here](assets/testing_files/testing_ux_goals/footer_responsiveness.gif)
+        1. The social media links are located in the footer together with the restaurant's contacts. Click [here](assets/testing_files/testing_ux_goals/footer.png)
+        2. Social media links and contacts always adapt responsively in order to be clicked without any difficulty on any device. Click [here](assets/testing_files/testing_ux_goals/footer_responsiveness.gif)
         3. The email and phone number in the footer contain a link to facilitate communication with the restaurant. Click [here](assets/testing_files/testing_ux_goals/footer.png)
 
 -   #### Returning Visitor Goals
@@ -40,12 +40,12 @@
 
         1. Contacts are easily visible in every page in the footer. Click [here](assets/testing_files/testing_ux_goals/footer.png)
         2. In the "About us" page there is a form to facilitate communication with the restaurant. Click [here](assets/testing_files/testing_ux_goals/form.png)
-        3. The footer contains links to the relevant social networks (Facebook,Youtube, Twitter and Instagram) as well as the organization's email. Click [here](assets/testing_files/testing_ux_goals/footer.png)
+        3. The footer contains links to the relevant social media (Facebook,Youtube, Twitter and Instagram) as well as the organization's email. Click [here](assets/testing_files/testing_ux_goals/footer.png)
         4. The email button is set up to automatically open up your email app and autofill the email address in the "To" section. Click [here](assets/testing_files/testing_ux_goals/email_opening.gif)
 
-    3. As a Returning Visitor, I want to find the social network links so that I can join and interact with others in the community.
+    3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](assets/testing_files/gif/hover&click_social_footer.gif)
-        2. An interested returning custumer has the chance to immediately click on any link in the footer to be directed to the social networks of the restaurant as much as the Youtube channel. Click [here](assets/testing_files/gif/hover&click_social_footer.gif)
+        2. An interested returning custumer has the chance to immediately click on any link in the footer to be directed to the social medias of the restaurant as much as the Youtube channel. Click [here](assets/testing_files/gif/hover&click_social_footer.gif)
         3. A little gallery will show interesting images to a customer who wants to show the restaurant to a friend. The menu page has been thought for the same reason other than showing the main dishes of the moment. Click [here](assets/testing_files/testing_ux_goals/gallery_screenshot.png)
 
 -   #### Frequent User Goals
@@ -65,7 +65,7 @@
 -   #### Site Owner Goals, Testing
 
      1. Increasing the overall restaurant reputation and awareness.
-        1.  Through descriptive images and easy access to social networks.
+        1.  Through descriptive images and easy access to social medias.
 
      2. Give an immediate overview of the place, its main features, products and other important information.
         1. Gallery images, menu cards, embedded video and map abundantly provide that.
@@ -73,11 +73,11 @@
      3. Increase percentage of in-store sales made with new imported products and, in the future, also online sales..
         1. The food menu together with the PDF list of wines/spirits provides all the information regarding new products,pricing and variety.
 
-     4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
-        1. Possible via the reviews from ther social networks connected to the restaurant and the form in the page "About Us".
+     4. Gain a better understanding of the audience by checking their feedback both via the website and social medias.
+        1. Possible via the reviews from ther social medias connected to the restaurant and the form in the page "About Us".
 
      5. Consequently, increase social mentions and post with regularity in order to keep attention high.
-        1. Possible via regular updates of the restaurant features (menu,wine list etc) that connected to the social networks interactions give the owner a trend of its audience.
+        1. Possible via regular updates of the restaurant features (menu,wine list etc) that connected to the social medias interactions give the owner a trend of its audience.
 
      6. Allow potential customers to fill out a contact form, sign up for the email list, visit the physical location, or simply give the restaurant a phone call.
         1. Through the form present on the website (at the moment not active), location and contacts given in the footer and an embedded map.
@@ -86,7 +86,7 @@
         1. The simple and instinctive structure of the website allows that, together with the clarifying images.
 
      8. Use reviews to increase customer satisfaction.
-        1. The reviews are part of the improving process; social network interactions are the first indicator of popularity. 
+        1. The reviews are part of the improving process; social media interactions are the first indicator of popularity. 
 
 ## User testing 
 Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
